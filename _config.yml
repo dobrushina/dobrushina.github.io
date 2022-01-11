@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Ольга Добрушина
 logo: olgadobrushina.png
 description: Психолог-консультант, схема-терапевт, когнитивно-поведенческий психотерапевт, нейропсихолог. Кандидат медицинских наук.
+is_project_page:false
+
