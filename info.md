@@ -1,3 +1,7 @@
+layout: page
+title: "info"
+permalink: https://dobrushina.github.io/info
+
 Оплата осуществляется после приёма, с помощью банковской карты или по QR-коду.
 
 
