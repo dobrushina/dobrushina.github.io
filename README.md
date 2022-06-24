@@ -12,6 +12,10 @@
 - Институт изучения детства, семьи и воспитания РАО, метод замещающего онтогенеза (А. Блудова)
 - Medbridge Educational Platform, модель "SCERTS" (Social Communication, Emotional Regulation and Transactional Support) для людей с аутизмом (B. Prizant, A. Wetherby, E. Rubin)
 
+
+## Членство в ассоциациях
+Schema Therapy Society (ISST)
+
 ## Работа со взрослыми
 - Тревожность, страхи, подавленность, перепады настроения, чувство вины, агрессия
 - Семейные отношения
