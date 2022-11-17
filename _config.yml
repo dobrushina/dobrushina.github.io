@@ -3,8 +3,8 @@
 title: Olga Dobrushina
 description: Schema therapist, CBT-therapist
 
-baseurl: / #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: "" #name of GitHub repository
+url: "dobrushina.care" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
