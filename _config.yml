@@ -8,13 +8,13 @@ url: "" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
-paginate: 4
+paginate: 1
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "https://www.linkedin.com/in/dobrushina-olga/"
-researchgate: "https://www.researchgate.net/profile/Olga-Dobrushina"
+linkedin: "dobrushina-olga"
+researchgate: "Olga-Dobrushina"
 
 
 # Markdown
