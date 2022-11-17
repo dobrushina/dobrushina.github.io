@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /
+permalink: /Russian
 profile:
   align: right
   image: profile.png
@@ -10,9 +10,7 @@ published: true
 [English](index.md){:target="_blank"}
 
 
-Я занимаюсь психотерапией со взрослыми, помогая развить навыки эмоциональной регуляции и научиться эффективнее достигать своих целей. Также я работаю с парами, желающими сделать свои отношения более гармоничными. Мой любимый метод работы называется схема-терапией — это современное направление когнитивно-бихевиоральной терапии (КБТ), интегрирующее работу с когнициями (мысли и убеждения) и глубокое погружение в эмоциональным мир. Моя работа руководствуется конкретными целей, которые ставит клиент, но для их достижения мы касается не только настоящего, но и предыдущего опыта, особенно если прошлое было травматичным.
-
-We uncover the schemas — patterns of memories, beliefs, emotions, bodily feelings originating from childhood adversities and shaping the way we perceive and feel today. We use special techniques to ameliorate the influence of schemas and to develop the Healthy Adult — our wiser part responsible for the self-care and value-directed actions.
+Я занимаюсь психотерапией со взрослыми, помогая развить навыки регуляции эмоций и научиться эффективнее достигать своих целей. Также я работаю с парами, желающими сделать свои отношения более гармоничными. Мой любимый метод работы называется схема-терапией — это современное направление когнитивно-бихевиоральной терапии (КБТ), интегрирующее работу с когнициями (мысли и убеждения) и глубокое погружение в эмоциональным мир. Моя работа руководствуется конкретными целей, которые ставит клиент, но для их достижения мы касается не только настоящего, но и предыдущего опыта, особенно если прошлое было травматичным. Мы исследуем схемы — паттерны из воспоминаний, мыслей,эмоций и ощущений в теле, которые происходят из детск patterns of memories, beliefs, emotions, bodily feelings originating from childhood adversities and shaping the way we perceive and feel today. We use special techniques to ameliorate the influence of schemas and to develop the Healthy Adult — our wiser part responsible for the self-care and value-directed actions.
 
 The process of schema therapy is intense and interesting. We not only talk, but move from chair to chair and do a lot of work in the imagination. The process is guided by the case conceptualization that is shared with the client and I am explaining all the steps and the science underlying them.  Usually we meet once a week for an hour, and the duration of therapy varies from 20 to more than 40 sessions.There is always homework that promotes transfer of the gains into daily life. Currently I work only online, through Zoom.
 
