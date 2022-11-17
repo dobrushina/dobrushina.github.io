@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-[`На русском`](Russian.md)
+<sub>[На русском](Russian.md)</sub>
 
 
 I am a psychotherapist working with adults who want to enhance their emotional regulation and interpersonal efficacy and also with couples willing to improve the relationship. My favorite method is schema therapy, which is a contemporary CBT (cognitive-behavioral therapy) approach integrating work with cognitions (thoughts and beliefs) and deep emotional healing. My work is directed by real-life goals of the clients, but to achieve these goals we target not only present, but also past experiences, especially when the past was traumatic. We uncover the schemas — patterns of memories, beliefs, emotions, bodily feelings originating from childhood adversities and shaping the way we perceive and feel today. We use special techniques to ameliorate the influence of schemas and to develop the Healthy Adult — our wiser part responsible for the self-care and value-directed life.
