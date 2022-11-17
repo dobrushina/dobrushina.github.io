@@ -10,18 +10,19 @@ published: true
 [English](index.md){:target="_blank"}
 
 
-Я занимаюсь психотерапией со взрослыми, помогая развить навыки регуляции эмоций и научиться эффективнее достигать своих целей. Также я работаю с парами, желающими сделать свои отношения более гармоничными. Мой любимый метод работы называется схема-терапией — это современное направление когнитивно-бихевиоральной терапии (КБТ), интегрирующее работу с когнициями (мысли и убеждения) и глубокое погружение в эмоциональным мир. Моя работа руководствуется конкретными целей, которые ставит клиент, но для их достижения мы касается не только настоящего, но и предыдущего опыта, особенно если прошлое было травматичным. Мы исследуем схемы — паттерны из воспоминаний, мыслей,эмоций и ощущений в теле, которые происходят из детск patterns of memories, beliefs, emotions, bodily feelings originating from childhood adversities and shaping the way we perceive and feel today. We use special techniques to ameliorate the influence of schemas and to develop the Healthy Adult — our wiser part responsible for the self-care and value-directed actions.
+Я занимаюсь психотерапией со взрослыми людьми, помогая им развить навыки регуляции эмоций и научиться эффективнее достигать своих целей. Также я работаю с парами, желающими сделать свои отношения более гармоничными. Мой любимый метод работы называется схема-терапией — это современное направление когнитивно-бихевиоральной терапии (КБТ), интегрирующее работу с когнициями (мысли и убеждения) и глубокое погружение в эмоциональный мир. Моя работа строится вокруг конкретных целей, которые ставит клиент, но для их достижения мы касается не только настоящего, но и предыдущего опыта, особенно если прошлое было травматичным. Мы исследуем схемы — паттерны из воспоминаний, мыслей,эмоций и ощущений в теле, которые происходят из тяжелых событий детства и влияют на то, как мы воспринимаем мир и чувствуем себя сегодня. Мы используем специальные техники, чтобы снизить влияние схем и развить Здорового Взрослого — нашу наиболее мудрую часть, отвечающую за заботу о себе и жизнь в соответствии со своими ценностями.
 
-The process of schema therapy is intense and interesting. We not only talk, but move from chair to chair and do a lot of work in the imagination. The process is guided by the case conceptualization that is shared with the client and I am explaining all the steps and the science underlying them.  Usually we meet once a week for an hour, and the duration of therapy varies from 20 to more than 40 sessions.There is always homework that promotes transfer of the gains into daily life. Currently I work only online, through Zoom.
+Процесс схема-терапии интенсивен и интересен. Мы не только разговариваем, но и перемещаемся со стула на стул и много работаем в воображении. Иногда мы рисуем диаграммы, потому что схема-терапии основывается на концептуализации, которую понимают и терапевт, и клиент.Я объясняю все шаги терапии и посвящаю в их научные основы.  Обычно мы встречаемся раз в неделю в течение часа; длительность терапии варьирует от 20 до больше 40 сессий. В терапии есть домашние задания, которые помогают переносить успехи в реальную жизнь. 
 
 
-### About me
-I was born in Moscow, Russia and recently moved to Israel due to my disagreement with the actions of the Russian government. I am 37 years old, I am married and I have three children.
+### Обо мне
+Я родилась в Москве и недавно переехала в Израиль в связи с несогласием с действиями руководства страны. Мне 37 лет, я замужем, воспитывают троих детей.
 
-My basic education is medical (M.V. Lomonosov Moscow State University), although currently I am not working as a doctor. I have a Ph.D. degree and I am combining psychotherapy with research in the field of neuroscience of emotion and embodiment. I am using advanced MRI methods to study the brain networks regulating our emotional and physical states and to develop technologies supporting mental well-being.
+У меня есть медицинское образование (МГУ им. М.В. Ломоносова), но в настоящее время я не принимаю как врач. Будучи кандидатом наук, я совмещаю психотерапию с научной работой в области нейронауки эмоций и телесного самосознания. Я использую современные методы МРТ для изучения мозговых нейросетей, регулирующих наше эмоциональное и физическое состояние и занимаюсь разработкой технологий для гармонизации ментального состояния.
 
-I completed a Master's program in psychological consulting in the Moscow State Psychological and Pedagogical Institute. I studied cognitive behavioral therapy (CBT) in the Beck Institute and completed individual and couple schema therapy courses certified by the International Association of Schema Therapy (ISST). I am a member of ISST and I am working under regular supervision.
+Я закончила магистерскую программу по психологическому консультированию в Московском государственном психолого-педагогическом университете, изучала когнитивно-бихевиоральную терапию (КБТ) в Институте Бека, прошла курсы обучения индивидуальной, парной, детской и подростковой схема-терапии, сертифицированные международной ассоциацией International Association of Schema Therapy (ISST). Я являюсь членом ассоциации ISST и работаю под супервизией.
 
-### Contact information
-Phone: +926526415840 (please write to WhatsApp), Telegram: @Dobrushina, email: dobrushina@gmail.com
-I speak Russian and English, my Hebrew is currently very basic.
+### Контактная информация
+Телефон: +972526415840 (пишите в WhatsApp, пожалуйста), Telegram: @Dobrushina, email: dobrushina@gmail.com.
+
+Я говорю на русском и английском. В настоящее время я работаю только онлайн, через Zoom.
