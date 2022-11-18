@@ -23,6 +23,6 @@ My basic education is medical (M.V. Lomonosov Moscow State University), although
 I completed a Master's program in psychological consulting in the Moscow State Psychological and Pedagogical Institute. I studied cognitive behavioral therapy (CBT) in the Beck Institute and completed individual and couple schema therapy courses certified by the International Association of Schema Therapy (ISST). I am a member of ISST and I am working under regular supervision.
 
 ### Contact information
-WhatsApp: +972526415840, Telegram: @Dobrushina, email: [dobrushina@gmail.com](dobrushina@gmail.com).
+WhatsApp: +972526415840, Telegram: @Dobrushina, email: [dobrushina@gmail.com](mailto:dobrushina@gmail.com).
 
 I speak English and Russian. Currently I work online only, via Zoom.
