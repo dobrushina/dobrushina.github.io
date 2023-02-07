@@ -45,6 +45,7 @@ I completed a Master's program in psychological consulting in the Moscow State P
 - Praxis, ACT Immersion (acceptance and commitment therapy; S. Hayes)
 - Schema Therapy Training Online: Integrating Schema Therapy with DBT (Dialectical Behavioral Therapy; C. Hepworth)
 - Beck Institute, cognitive behavioral therapy (J. Beck)
+- Anna Freud Center, Mentalization-Based Treatment: Basic Training (A. Bateman)
 - Lomonosov Moscow State University, children neuropsychology: diagnostic and correction (T.V. Achutina)
 - Institute for chilhood, family and parenting, method of substitute ontogenesis (A. Bludova)
 - Medbridge Educational Platform, SCERTS model (Social Communication, Emotional Regulation and Transactional Support) for authism spectrum disorder (B. Prizant, A. Wetherby, E. Rubin)

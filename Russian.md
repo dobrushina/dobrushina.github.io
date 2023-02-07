@@ -42,6 +42,7 @@ published: true
 - Praxis, ACT Immersion (терапия принятия и ответственности; S. Hayes)
 - Schema Therapy Training Online: Integrating Schema Therapy with DBT (интеграция схема-терапии и диалектической поведенческой терапии; C. Hepworth)
 - Beck Institute, когнитивно-бихевиоральная терапия (J. Beck)
+- Anna Freud Center, Mentalization-Based Treatment: Basic Training (терапия, основанная на ментализации; A. Bateman)
 - Факультет психологии МГУ им. М.В. Ломоносова, детская нейропсихология: методы диагностики и коррекции (Т.В. Ахутина)
 - Институт изучения детства, семьи и воспитания РАО, метод замещающего онтогенеза (А. Блудова)
 - Medbridge Educational Platform, модель "SCERTS" (Social Communication, Emotional Regulation and Transactional Support) для людей с аутизмом (B. Prizant, A. Wetherby, E. Rubin)
