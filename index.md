@@ -22,7 +22,7 @@ The process of schema therapy is intense and interesting. We not only talk, but 
 - Posttraumatic conditions (PTSD and complex PTSD), chronic stress
 - Psychosomatic symptoms
 - Self-mutilating behaviour
-- Anxiety and depression disorders
+- Anxiety and depression disorders, obsessions
 - Personality disorders including BPD (borderline personality disorder)
 - Autism spectrum disorder (ASD)
 - ADHD (attention deficit and hyperactivity disorder)
