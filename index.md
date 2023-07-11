@@ -56,4 +56,4 @@ I completed a Master's program in psychological counseling in the Moscow State P
 ### Contact information
 WhatsApp: +972526415840, Telegram: @Dobrushina, email: [dobrushina@gmail.com](mailto:dobrushina@gmail.com).
 
-I speak English and Russian. Currently I work online only, via Zoom.
+I speak English and Russian. Currently I work online, via Zoom.
