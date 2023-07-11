@@ -10,11 +10,11 @@ published: true
 <sub><sub>Eng / [Ru](Russian.md)</sub></sub>
 
 
-I am a psychotherapist who works with adults on emotional regulation, interpersonal efficacy, and professional effectiveness. I also work with couples looking to improve their relationships. My preferred method is schema therapy, a contemporary cognitive-behavioral therapy (CBT) approach that integrates work with cognitions (thoughts and beliefs) and deep emotional healing. I also use classical CBT approaches that target dysfunctional cognitions, as well as techniques from Acceptance and Commitment Therapy (ACT) and Dialectical Behavioral Therapy (DBT). My work is guided by my clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
+I am a psychotherapist working with adults on emotional regulation, interpersonal skills, and professional effectiveness. I also work with couples looking to improve their relationships. My preferred method is schema therapy, a contemporary cognitive-behavioral therapy (CBT) approach that integrates work with cognitions (thoughts and beliefs) and deep emotional healing. I also use classical CBT techniques that target dysfunctional cognitions, as well as Acceptance and Commitment Therapy (ACT) approach and Dialectical Behavioral Therapy (DBT) skills. My work is guided by the clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
 
-We explore schemas, which are patterns of memories, beliefs, emotions, and bodily sensations originating from childhood adversities and shaping the way we perceive and feel today. We use special techniques to reduce the influence of schemas and to develop the 'Healthy Adult'—our wiser part responsible for self-care and a value-directed life.
+We explore schemas, which are patterns of memories, beliefs, emotions, and bodily sensations originating from childhood adversities and shaping the way we perceive and feel today. We use special techniques to reduce the influence of schemas and to develop the 'Healthy Adult'—our wiser part responsible for self-care and value-directed life.
 
-The process of schema therapy is intense and engaging. We do more than just talk; we move from chair to chair and engage in a lot of imaginative work. Sometimes, we draw diagrams because schema therapy is guided by a case conceptualization that is shared with the client. We often do role-play and skills training, and I explain all the steps and the science behind them. Typically, we meet once a week for an hour, and the duration of therapy can vary from 20 to over 40 sessions. There is also homework that promotes the transfer of gains into daily life.
+The process of schema therapy is intense and engaging. We not only talk but also move from chair to chair and work in imagination. Sometimes, we draw diagrams because schema therapy is guided by a case conceptualization that is shared with the client. We often do role-play and skills training. I explain all the steps and the science behind them. Typically, we meet once a week for an hour, and the duration of therapy can vary from 20 to over 40 sessions. There is also homework that promotes the transfer of gains into daily life.
 
 
 ### When I can help
@@ -32,7 +32,7 @@ The process of schema therapy is intense and engaging. We do more than just talk
 
 
 ### About me
-I was born in Moscow, Russia, and recently moved to Israel due to my disagreement with the actions of the Russian government. I am 37 years old, married, and I have three children.
+I was born in Moscow, Russia, and recently moved to Israel due to my disagreement with the actions of the Russian government. I am 38 years old, married, and I have three children.
 
 My basic education is medical (M.V. Lomonosov Moscow State University), although currently I do not work as a doctor. Being trained in neurology, for 10 years I worked with neurodiverse people (consequences of traumatic brain injury and stroke, neurooncology, mild cognitive impairment, ASD, ADHD and other neurodevelopmental disorders) and with psychosomatic syndromes. I have a Ph.D. degree and I am combining psychotherapy with research in the field of neuroscience of emotion and embodiment. I am using advanced MRI methods to study the brain networks regulating our emotional and physical states and to develop technologies supporting mental well-being.
 
