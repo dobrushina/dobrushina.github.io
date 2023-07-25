@@ -26,6 +26,7 @@ The process of schema therapy is intense and engaging. We not only talk but also
 - Self-mutilating behaviour
 - Anxiety and depression disorders, obsessions
 - Personality disorders including BPD (borderline personality disorder)
+- Eating disorders
 - Autism spectrum disorder (ASD)
 - ADHD (attention deficit and hyperactivity disorder)
 - Consequences of brain injury: traumatic brain injury and stroke
@@ -46,6 +47,7 @@ I completed a Master's program in psychological counseling in the Moscow State P
 - Institut für Schematherapie-Frankfurt, contextual schema-therapy (E. Roedinger)
 - Praxis, ACT Immersion (acceptance and commitment therapy; S. Hayes)
 - Schema Therapy Training Online: Integrating Schema Therapy with DBT (Dialectical Behavioral Therapy; C. Hepworth)
+- Schema Therapy Training Online: Schema Therapy for Eating Disorders (S. Simpson)
 - Beck Institute, cognitive behavioral therapy (J. Beck)
 - Anna Freud Center, Mentalization-Based Treatment: Basic Training (A. Bateman)
 - Lomonosov Moscow State University, children neuropsychology: diagnostic and correction (T.V. Achutina)

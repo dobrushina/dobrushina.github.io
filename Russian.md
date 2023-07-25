@@ -23,6 +23,7 @@ published: true
 - Самоповреждающее поведение
 - Тревожные и депрессивные расстройства
 - Личностные расстройства, включая ПРЛ (пограничное личностное расстройство)
+- Расстройства пищевого поведения
 - Расстройство аутистического спектра
 - СДВГ (синдром дефицита внимания и гиперактивности)
 - Последствия повреждения головного мозга: черепно-мозговая травма, инсульт
@@ -41,6 +42,7 @@ published: true
 - Institut für Schematherapie-Frankfurt, контекстуальная схема-терапия (E. Roedinger)
 - Praxis, ACT Immersion (терапия принятия и ответственности; S. Hayes)
 - Schema Therapy Training Online: Integrating Schema Therapy with DBT (интеграция схема-терапии и диалектической поведенческой терапии; C. Hepworth)
+- Schema Therapy Training Online: Schema Therapy for Eating Disorders (схема-терапия расстройств пищевого поведения; S. Simpson)
 - Beck Institute, когнитивно-бихевиоральная терапия (J. Beck)
 - Anna Freud Center, Mentalization-Based Treatment: Basic Training (терапия, основанная на ментализации; A. Bateman)
 - Факультет психологии МГУ им. М.В. Ломоносова, детская нейропсихология: методы диагностики и коррекции (Т.В. Ахутина)
