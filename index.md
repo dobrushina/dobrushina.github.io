@@ -37,7 +37,7 @@ I was born in Moscow, Russia, and recently moved to Israel due to my disagreemen
 
 My basic education is medical (M.V. Lomonosov Moscow State University), although currently I do not work as a doctor. Being trained in neurology, for 10 years I worked with neurodiverse people (consequences of traumatic brain injury and stroke, neurooncology, mild cognitive impairment, ASD, ADHD and other neurodevelopmental disorders) and with psychosomatic syndromes. I have a Ph.D. degree and I am combining psychotherapy with research in the field of neuroscience of emotion and embodiment. I am using advanced MRI methods to study the brain networks regulating our emotional and physical states and to develop technologies supporting mental well-being.
 
-I completed a Master's program in psychological counseling in the Moscow State Psychological and Pedagogical Institute. I studied cognitive behavioral therapy (CBT) at the Beck Institute and completed individual and couples' schema therapy courses certified by the International Association of Schema Therapy (ISST). I am a member of ISST and I am working under regular supervision.
+I completed a Master's program in psychological counseling in the Moscow State Psychological and Pedagogical Institute. I studied cognitive behavioral therapy (CBT) at the Beck Institute and completed individual and couples' schema therapy courses certified by the International Association of Schema Therapy (ISST). I am a member of ISST and I am working under supervision.
 
 
 ### My certificates in psychotherapy
