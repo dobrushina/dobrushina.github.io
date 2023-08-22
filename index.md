@@ -10,7 +10,7 @@ published: true
 <sub><sub>Eng / [Ru](Russian.md)</sub></sub>
 
 
-I am a psychotherapist working with adults on emotional regulation, interpersonal skills, and professional effectiveness. I also work with couples looking to improve their relationships. My preferred method is schema therapy, a contemporary cognitive-behavioral therapy (CBT) approach that integrates work with cognitions (thoughts and beliefs) and deep emotional healing. I also use classical CBT techniques that target dysfunctional cognitions, as well as Acceptance and Commitment Therapy (ACT) approach and Dialectical Behavioral Therapy (DBT) skills. My work is guided by the clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
+I am a psychotherapist working with adults and adolescents on emotional regulation, interpersonal skills, and professional effectiveness. I also work with couples looking to improve their relationships and provide consultations on parenting. My preferred method is schema therapy, a contemporary cognitive-behavioral therapy (CBT) approach that integrates work with cognitions (thoughts and beliefs) and deep emotional healing. I also use classical CBT techniques that target dysfunctional cognitions, as well as Acceptance and Commitment Therapy (ACT) approach and Dialectical Behavioral Therapy (DBT) skills. My work is guided by the clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
 
 We explore schemas, which are patterns of memories, beliefs, emotions, and bodily sensations originating from childhood adversities and shaping the way we perceive and feel today. We use special techniques to reduce the influence of schemas and to develop the 'Healthy Adult'—our wiser part responsible for self-care and value-directed life.
 
@@ -33,11 +33,11 @@ The process of schema therapy is intense and engaging. We not only talk but also
 
 
 ### About me
-I was born in Moscow, Russia, and recently moved to Israel due to my disagreement with the actions of the Russian government. I am 38 years old, married, and I have three children.
+I was born in Moscow, Russia, and a year ago moved to Israel due to my disagreement with the actions of the Russian government. I am 38 years old, married, and I have three children.
 
-My basic education is medical (M.V. Lomonosov Moscow State University), although currently I do not work as a doctor. Being trained in neurology, for 10 years I worked with neurodiverse people (consequences of traumatic brain injury and stroke, neurooncology, mild cognitive impairment, ASD, ADHD and other neurodevelopmental disorders) and with psychosomatic syndromes. I have a Ph.D. degree and I am combining psychotherapy with research in the field of neuroscience of emotion and embodiment. I am using advanced MRI methods to study the brain networks regulating our emotional and physical states and to develop technologies supporting mental well-being.
+My basic education is medical (M.V. Lomonosov Moscow State University), although currently I do not work as a doctor. Being trained in neurology, for 10 years I worked with neurodiverse people (ASD, ADHD and other neurodevelopmental disorders, consequences of traumatic brain injury and stroke, neurooncology, mild cognitive impairment) and with psychosomatic syndromes. I have a Ph.D. degree and I combine psychotherapy with research in the field of neuroscience of emotion and embodiment. I use advanced MRI methods to study the brain networks regulating our emotional and physical states and to develop technologies supporting mental well-being.
 
-I completed a Master's program in psychological counseling in the Moscow State Psychological and Pedagogical Institute. I studied cognitive behavioral therapy (CBT) at the Beck Institute and completed individual and couples' schema therapy courses certified by the International Association of Schema Therapy (ISST). I am a member of ISST and I am working under supervision.
+I completed a Master's program in psychological counseling in the Moscow State Psychological and Pedagogical Institute. I studied cognitive behavioral therapy (CBT) at the Beck Institute and completed individual and couples schema therapy courses certified by the International Association of Schema Therapy (ISST). Besides psychotherapy, I have strong skils in cognitive assessment and cognitive training, including improvement of attention. I am a member of ISST and I work under supervision.
 
 
 ### My certificates in psychotherapy
