@@ -27,8 +27,8 @@ The process of schema therapy is intense and engaging. We not only talk but also
 - Anxiety and depression disorders, obsessions
 - Personality disorders including BPD (borderline personality disorder)
 - Eating disorders
-- Autism spectrum disorder (ASD)
-- ADHD (attention deficit and hyperactivity disorder)
+- Autism
+- ADHD
 - Consequences of brain injury: traumatic brain injury and stroke
 
 
