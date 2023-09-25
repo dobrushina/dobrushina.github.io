@@ -29,13 +29,13 @@ The process of schema therapy is intense and engaging. We not only talk but also
 - Eating disorders
 - Autism
 - ADHD
-- Consequences of brain injury: traumatic brain injury and stroke
+- Acquired brain injury: traumatic brain injury, stroke, brain tumors
 
 
 ### About me
 I was born in Moscow, Russia, and a year ago moved to Israel due to my disagreement with the actions of the Russian government. I am 38 years old, married, and I have three children.
 
-My basic education is medical (M.V. Lomonosov Moscow State University), although currently I do not work as a doctor. Being trained in neurology, for 10 years I worked with neurodiverse people (ASD, ADHD and other neurodevelopmental disorders, consequences of traumatic brain injury and stroke, neurooncology, mild cognitive impairment) and with psychosomatic syndromes. I have a Ph.D. degree and I combine psychotherapy with research in the field of neuroscience of emotion and embodiment. I use advanced MRI methods to study the brain networks regulating our emotional and physical states and to develop technologies supporting mental well-being.
+My basic education is medical (M.V. Lomonosov Moscow State University), although currently I do not work as a doctor. Being trained in neurology, for 10 years I worked with neurodiverse people (аutism, ADHD, dyslexia, dysgraphia, consequences of traumatic brain injury, stroke, brain tumors) and with psychosomatic syndromes. I have a Ph.D. degree and I combine psychotherapy with research in the field of neuroscience of emotion and embodiment. I use advanced MRI methods to study the brain networks regulating our emotional and physical states and to develop technologies supporting mental well-being.
 
 I completed a Master's program in psychological counseling in the Moscow State Psychological and Pedagogical Institute. I studied cognitive behavioral therapy (CBT) at the Beck Institute and completed individual and couples schema therapy courses certified by the International Association of Schema Therapy (ISST). Besides psychotherapy, I have strong skils in cognitive assessment and cognitive training, including improvement of attention. I am a member of ISST and I work under supervision.
 
@@ -52,7 +52,7 @@ I completed a Master's program in psychological counseling in the Moscow State P
 - Anna Freud Center, Mentalization-Based Treatment: Basic Training (A. Bateman)
 - Lomonosov Moscow State University, children neuropsychology: diagnostic and correction (T.V. Achutina)
 - Institute for chilhood, family and parenting, method of substitute ontogenesis (A. Bludova)
-- Medbridge Educational Platform, SCERTS model (Social Communication, Emotional Regulation and Transactional Support) for authism spectrum disorder (B. Prizant, A. Wetherby, E. Rubin)
+- Medbridge Educational Platform, SCERTS model (Social Communication, Emotional Regulation and Transactional Support) for autism (B. Prizant, A. Wetherby, E. Rubin)
 
 
 ### Contact information
