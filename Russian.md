@@ -44,7 +44,7 @@ published: true
 - Институт изучения детства, семьи и воспитания РАО, метод замещающего онтогенеза (А. Блудова)
 - Medbridge Educational Platform, модель "SCERTS" (Social Communication, Emotional Regulation and Transactional Support) для аутизма (B. Prizant, A. Wetherby, E. Rubin)
 
-[Полное CV](www.dobrushina.care/files/CV_Dobrushina_Oct_2023.pdf)
+[Полное CV](https://www.dobrushina.care/files/CV_Dobrushina_Oct_2023.pdf)
 
 ### Контактная информация
 WhatsApp: +972526415840, Telegram: @Dobrushina, email: [dobrushina@gmail.com](mailto:dobrushina@gmail.com).
