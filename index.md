@@ -28,7 +28,7 @@ The process of schema therapy is intense and engaging. We not only talk but also
 
 
 ### About me
-I was born in Moscow, Russia, and a year ago moved to Israel due to my disagreement with the actions of the Russian government. I am 38 years old, married, and I have three children.
+I was born in Moscow, Russia, and in 2022 moved to Israel. I am 38 years old, married, and I have three children.
 
 My basic education is medical (M.V. Lomonosov Moscow State University), although currently I do not work as a doctor. Being trained in neurology, for 10 years I worked with neurodiverse people (аutism, ADHD, dyslexia, dysgraphia, consequences of traumatic brain injury, stroke, brain tumors) and with psychosomatic syndromes. I have a Ph.D. degree and I combine psychotherapy with research in the field of neuroscience of emotion and embodiment. I use advanced MRI methods to study the brain networks regulating our emotional and physical states and to develop technologies supporting mental well-being.
 
