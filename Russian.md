@@ -23,7 +23,6 @@ published: true
 - Личностные расстройства, включая ПРЛ (пограничное личностное расстройство). Самоповреждающее поведение
 - Расстройства пищевого поведения
 
-
 ### Обо мне
 Я родилась в Москве и год назад переехала в Израиль в связи с несогласием с действиями российского государства. Мне 38 лет, я замужем, воспитываю троих детей.
 
@@ -44,6 +43,8 @@ published: true
 - Факультет психологии МГУ им. М.В. Ломоносова, детская нейропсихология: методы диагностики и коррекции (Т.В. Ахутина)
 - Институт изучения детства, семьи и воспитания РАО, метод замещающего онтогенеза (А. Блудова)
 - Medbridge Educational Platform, модель "SCERTS" (Social Communication, Emotional Regulation and Transactional Support) для аутизма (B. Prizant, A. Wetherby, E. Rubin)
+
+[Полное CV](http://www.dobrushina.care/files/CV_Dobrushina_Oct_2023.pdf)
 
 ### Контактная информация
 WhatsApp: +972526415840, Telegram: @Dobrushina, email: [dobrushina@gmail.com](mailto:dobrushina@gmail.com).
