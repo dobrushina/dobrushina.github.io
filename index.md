@@ -18,18 +18,13 @@ The process of schema therapy is intense and engaging. We not only talk but also
 
 
 ### When I can help
-- Anxiety, fears, depressed mood, mood swings, feeling of guilt, agression
-- Difficulties in relationships, including couples
-- Low self-esteem
+- Anxiety, fears, depressed mood, mood swings, low self-esteem, feeling of guilt, agression. Anxiety and depression disorders, obsessions
 - Posttraumatic conditions (PTSD and complex PTSD), chronic stress
-- Psychosomatic symptoms
-- Self-mutilating behaviour
-- Anxiety and depression disorders, obsessions
-- Personality disorders including BPD (borderline personality disorder)
+- Neurodivergence: autism, ADHD, traumatic brain injury, stroke, brain tumors
+- Psychosomatic symptoms and coping with chronic diseases
+- Difficulties in relationships, including couples and parenting
+- Personality disorders including BPD (borderline personality disorder). Self-mutilating behaviour
 - Eating disorders
-- Autism
-- ADHD
-- Acquired brain injury: traumatic brain injury, stroke, brain tumors
 
 
 ### About me
