@@ -49,7 +49,7 @@ I completed a Master's program in psychological counseling in the Moscow State P
 - Institute for chilhood, family and parenting, method of substitute ontogenesis (A. Bludova)
 - Medbridge Educational Platform, SCERTS model (Social Communication, Emotional Regulation and Transactional Support) for autism (B. Prizant, A. Wetherby, E. Rubin)
 
-[Full CV](http://www.dobrushina.care/files/CV_Dobrushina_Oct_2023.pdf)
+[Full CV](www.dobrushina.care/files/CV_Dobrushina_Oct_2023.pdf)
 
 ### Contact information
 WhatsApp: +972526415840, Telegram: @Dobrushina, email: [dobrushina@gmail.com](mailto:dobrushina@gmail.com).
