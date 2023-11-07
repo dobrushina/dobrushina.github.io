@@ -50,3 +50,6 @@ published: true
 WhatsApp: +972526415840, Telegram: @Dobrushina, email: [dobrushina@gmail.com](mailto:dobrushina@gmail.com).
 
 Я разговариваю на русском и английском. В настоящее время я работаю онлайн, через Zoom.
+
+### <a name="materials"></a>Материалы для клиентов и коллег
+[Упражнения для развития интероцепции](files/Interoception_cards_Rus.pdf)
