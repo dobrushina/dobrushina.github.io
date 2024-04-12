@@ -10,17 +10,19 @@ published: true
 <sub><sub>Eng / [Ru](Russian.md)</sub></sub>
 
 
-I am a psychotherapist working with adults and adolescents on emotional regulation, interpersonal skills, and professional effectiveness. I also work with couples looking to improve their relationships and provide consultations on parenting. My favourite method is schema therapy, a contemporary cognitive-behavioral therapy (CBT) approach that integrates work with cognitions (thoughts and beliefs) and deep emotional healing. I also use classical CBT techniques, as well as Acceptance and Commitment Therapy (ACT) approach and Dialectical Behavioral Therapy (DBT) skills. My work is guided by the clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
+I am a psychotherapist working with adults and adolescents on emotional regulation, interpersonal skills, and professional effectiveness. I also support couples and parents in improving family relationships. My special interests are working with neurodivergent clients and people experiencing post trauma.
 
-We explore schemas, which are patterns of memories, beliefs, emotions, and bodily sensations originating from childhood adversities and shaping the way we perceive and feel today. We use special techniques to reduce the influence of schemas and to develop the 'Healthy Adult'—our wiser part responsible for self-care and value-directed life.
+Being a third-wave CBT (cognitive-behavioral therapy) therapist, I mainly use schema therapy—a contemporary approach that integrates addressing cognitions (thoughts and beliefs) with deep emotional healing. I also blend into my work EMDR (eye movement desensitization and reprocessing), classical CBT techniques, as well as Acceptance and Commitment Therapy (ACT) and Dialectical Behavioral Therapy (DBT) skills. My work is guided by the clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
 
-The process of schema therapy is intense and engaging. We not only talk but also move from chair to chair and work in imagination. Sometimes, we draw diagrams because schema therapy is guided by a case conceptualization that is shared with the client. We often do role-play and skills training. I explain all the steps and the science behind them. Typically, we meet once a week for an hour, and the duration of therapy can vary from 20 to over 40 sessions. There is also homework that promotes the transfer of gains into daily life.
+We explore schemas, which are patterns of memories, beliefs, emotions, and bodily sensations originating from childhood adversities and shaping the way we perceive and feel today. Using special techniques, we reduce the influence of schemas and develop the 'Healthy Adult'—our wiser part responsible for self-care and value-directed life.
+
+The process of schema therapy is intense and engaging. We not only talk but also move from chair to chair and work in imagination. Sometimes, we draw diagrams, because schema therapy is guided by a case conceptualization that is shared with the client. We often do role-play and skills training. I explain all the steps and the science behind them. Typically, we meet once a week for an hour, and the duration of therapy can vary from 20 to over 40 sessions. There is also homework that promotes the transfer of gains into daily life.
 
 
 ### When I can help
-- Anxiety, fears, depressed mood, mood swings, low self-esteem, feeling of guilt, agression. Anxiety and depression disorders, obsessions
+- Anxiety, fears, depressed mood, mood swings, low self-esteem, feeling of guilt, aggression. Anxiety and depression disorders, obsessions
 - Posttraumatic conditions (PTSD and complex PTSD), chronic stress
-- Neurodivergence: autism, ADHD, traumatic brain injury, stroke, brain tumors
+- Neurodivergence: autism, ADHD, consequences of traumatic brain injury, stroke, brain tumors
 - Psychosomatic symptoms and coping with chronic diseases
 - Difficulties in relationships, including couples and parenting
 - Personality disorders including BPD (borderline personality disorder). Self-mutilating behaviour
@@ -30,23 +32,26 @@ The process of schema therapy is intense and engaging. We not only talk but also
 ### About me
 I was born in Moscow, Russia, and in 2022 moved to Israel. I am 38 years old, married, and I have three children.
 
-My basic education is medical (M.V. Lomonosov Moscow State University), although currently I do not work as a doctor. Being trained in neurology, for 10 years I worked with neurodiverse people (аutism, ADHD, dyslexia, dysgraphia, consequences of traumatic brain injury, stroke, brain tumors) and with psychosomatic syndromes. I have a Ph.D. degree and I combine psychotherapy with research in the field of neuroscience of emotion and embodiment. I use advanced MRI methods to study the brain networks regulating our emotional and physical states and to develop technologies supporting mental well-being. Understanding how our nervous system works helps me support people whose systems function in an atypical way. I adhere to a neuroaffirmative approach, not considering an autistic or ADHD brain to be inferior to a neurotypical (usual) one, but recognizing that it requires special care to realize its potential.
+My basic education is medical (M.V. Lomonosov Moscow State University), but currently I do not run medical practice. Being trained in neurology, for 10 years I worked with neurodivergent people (аutism, ADHD, dyslexia, dysgraphia, consequences of traumatic brain injury, stroke, brain tumors) and with psychosomatic syndromes. I have a PhD degree in Medicine and I combine psychotherapy with research in the field of neuroscience of emotion and embodiment. Using advanced MRI methods, I study the brain networks regulating our emotional and physical states and develop technologies supporting mental well-being. Understanding how the nervous system functions helps me support people whose brain works differently. I adhere to a neuroaffirmative approach, not considering an autistic or ADHD brain to be inferior to a neurotypical (usual) one, but recognizing that it requires special care to realize its potential.
 
-I completed a Master's program in psychological counseling in the Moscow State Psychological and Pedagogical Institute. I studied cognitive behavioral therapy (CBT) at the Beck Institute and completed individual and couples schema therapy courses certified by the International Association of Schema Therapy (ISST). I also have training in acceptance and commitment therapy, co-experiencing psychotherapy, and mentalization-based treatment. Besides psychotherapy, I have strong skils in cognitive assessment and cognitive training, including improvement of attention. I am certified by the ISST in individual schema therapy.
+I completed a Master's program in psychological counseling in the Moscow State Psychological and Pedagogical Institute, studied cognitive behavioral therapy (CBT) at the Beck Institute and completed individual, couples, and child and adolescent schema therapy courses certified by the International Association of Schema Therapy (ISST). I also have training in EMDR, acceptance and commitment therapy, co-experiencing psychotherapy, and mentalization-based treatment. Besides psychotherapy, I have strong skils in cognitive assessment and cognitive training, including improvement of attention.
+
+I am certified by the ISST in individual schema therapy (membership number 60360358).
 
 
 ### My certificates in psychotherapy
 - Moscow Institute of Schema Therapy, individual schema therapy, ISST accredited course (A. Yaltonskaya, N. Gegel)
-- Institut für Schematherapie-Frankfurt, couple schema therapy, ISST accredited course (E. Roedinger)
+- Institut für Schematherapie-Frankfurt, couple schema therapy, ISST accredited course (E. Roediger)
 - Sankt-Petersburg Institute of Schema Therapy, child and adolescent schema therapy, ISST accredited course (P. Kasyannik, M. Galimzyanova)
-- Institut für Schematherapie-Frankfurt, contextual schema-therapy (E. Roedinger)
+- Institut für Schematherapie-Frankfurt, contextual schema-therapy (E. Roediger)
+- Moscow EMDR Center, certification training in EMDR (U. Oren and N. Gradovskaya)
 - Praxis, ACT Immersion (acceptance and commitment therapy; S. Hayes)
 - Schema Therapy Training Online: Integrating Schema Therapy with DBT (Dialectical Behavioral Therapy; C. Hepworth)
 - Schema Therapy Training Online: Schema Therapy for Eating Disorders (S. Simpson)
 - Beck Institute, cognitive behavioral therapy (J. Beck)
 - Anna Freud Center, Mentalization-Based Treatment: Basic Training (A. Bateman)
 - Lomonosov Moscow State University, children neuropsychology: diagnostic and correction (T.V. Achutina)
-- Institute for chilhood, family and parenting, method of substitute ontogenesis (A. Bludova)
+- Institute for childhood, family and parenting, method of substitute ontogenesis (A. Bludova)
 - Medbridge Educational Platform, SCERTS model (Social Communication, Emotional Regulation and Transactional Support) for autism (B. Prizant, A. Wetherby, E. Rubin)
 
 [Full CV](files/CV_Dobrushina_Oct_2023.pdf)
