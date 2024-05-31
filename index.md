@@ -60,7 +60,7 @@ I am 39 years old, married, and I have three children. I was born in Moscow, mov
 - Institute for childhood, family and parenting, method of substitute ontogenesis (A. Bludova)
 - Medbridge Educational Platform, SCERTS model (Social Communication, Emotional Regulation and Transactional Support) for autism (B. Prizant, A. Wetherby, E. Rubin)
 
-[Full CV](files/CV_Dobrushina_Oct_2023.pdf)
+[Full CV](files/CV_Dobrushina.pdf)
 
 ### Contact information
 Glasgow, UK, and remotely.

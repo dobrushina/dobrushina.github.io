@@ -53,7 +53,7 @@ published: true
 - Институт изучения детства, семьи и воспитания РАО, метод замещающего онтогенеза (А. Блудова)
 - Medbridge Educational Platform, модель "SCERTS" (Social Communication, Emotional Regulation and Transactional Support) для аутизма (B. Prizant, A. Wetherby, E. Rubin)
 
-[Полное CV](files/CV_Dobrushina_Oct_2023.pdf)
+[Полное CV (англ)](files/CV_Dobrushina.pdf)
 
 ### Контактная информация
 Глазго, UK, а также дистанционно
