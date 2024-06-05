@@ -1,4 +1,4 @@
-Payment is made after the session, on the same day, via dirent bank transfer or using a credit/debit card. You will find the payment details and the link for card payment in the invoice. Once the payment is made, it is non-refundable. In case of appointment cancellation, no payment is required.
+<sub>Payment is made after the session, on the same day, via dirent bank transfer or using a credit/debit card. You will find the payment details and the link for card payment in the invoice. Once the payment is made, it is non-refundable. In case of appointment cancellation, no payment is required.</sub>
 
 <sub>The online payment service is carried out in accordance with the rules of international payments, adhering to principles of confidentiality and payment security, using the most advanced methods of verification, encryption, and data transmission over secure communication channels.</sub>
 
