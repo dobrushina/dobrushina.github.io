@@ -1,13 +1,9 @@
-В соответствии с требованиями банка для Интернет-эквайринга, размещаю информацию по правилам оплаты и безопасности платежей, конфиденциальности информации, а также логотипы банка и платёжных систем :-)
+Payment is made after the session, on the same day, via dirent bank transfer or using a credit/debit card. You will find the payment details and the link for card payment in the invoice. Once the payment is made, it is non-refundable. In case of appointment cancellation, no payment is required.
 
-Оплата осуществляется после приёма, с помощью банковской карты или по QR-коду. После проведения платежа сумма возврату не подлежит. В случае отмены приёма оплата не взимается. Стоимость зависит от формата работы и обговаривается при предварительном созвоне.
+<sub>The online payment service is carried out in accordance with the rules of international payments, adhering to principles of confidentiality and payment security, using the most advanced methods of verification, encryption, and data transmission over secure communication channels.</sub>
 
-<sub>Оплата банковскими картами осуществляется через АО «АЛЬФА-БАНК». К оплате принимаются карты VISA, MasterCard, МИР. Услуга оплаты через интернет осуществляется в соответствии с Правилами международных платежных систем Visa, MasterCard и Платежной системы МИР на принципах соблюдения конфиденциальности и безопасности совершения платежа, для чего используются самые современные методы проверки, шифрования и передачи данных по закрытым каналам связи. Ввод данных банковской карты осуществляется на защищенной платежной странице АО «АЛЬФА-БАНК».</sub>
+<sub>If you decide to make a payemtn by card, you will need to provide the following: card number, cardholder's name, card expiry date, and the three-digit security code. All necessary information is printed on the card.</sub>
 
-<sub>На странице для ввода данных банковской карты потребуется ввести данные банковской карты: номер карты, имя владельца карты, срок действия карты, трёхзначный код безопасности (CVV2 для VISA, CVC2 для MasterCard, Код Дополнительной Идентификации для МИР). Все необходимые данные пропечатаны на самой карте. Трёхзначный код безопасности — это три цифры, находящиеся на обратной стороне карты. Далее вы будете перенаправлены на страницу Вашего банка для ввода кода безопасности, который придет к Вам в СМС. Если код безопасности к Вам не пришел, то следует обратиться в банк выдавший Вам карту.</sub>
-
-<sub>Случаи отказа в совершении платежа: банковская карта не предназначена для совершения платежей через интернет, о чем можно узнать, обратившись в Ваш Банк; недостаточно средств для оплаты на банковской карте; данные банковской карты введены неверно; истек срок действия банковской карты. По вопросам оплаты с помощью банковской карты и иным вопросам, связанным с работой сайта, Вы можете обращаться по следующим телефону +7(916)130-31-44.</sub>
-  
-<sub>Предоставляемая вами персональная информация (имя, адрес, телефон, e-mail, номер банковской карты) является конфиденциальной и не подлежит разглашению. Данные вашей кредитной карты передаются только в зашифрованном виде и не сохраняются на нашем Web-сервере.</sub>
+<sub>The personal information you provide (name, address, phone number, email, bank card number) is confidential and not subject to disclosure. Your credit card data is transmitted only in encrypted form and is not stored on our web server.</sub>
 
 ![Logo](bank.jpg)

@@ -66,4 +66,7 @@ I am 39 years old, married, and I have three children. I was born in Moscow, mov
 Glasgow, UK, and remotely.
 Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +447933974269, Telegram: @Dobrushina.
 
-I speak English, Russian, and just a bit of Hebrew.
+I speak English, Russian, and understand some Hebrew.
+
+The cost of a session is £120, the duration is 50-55 minutes.
+[Payment conditions](info.md)
