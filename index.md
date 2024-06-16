@@ -69,4 +69,4 @@ Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +447933974
 I speak English, Russian, and understand some Hebrew.
 
 The cost of a session is £120, the duration is 50-55 minutes.
-[Payment conditions](info.md)
+I offer free initial 15-minuite consultations.
