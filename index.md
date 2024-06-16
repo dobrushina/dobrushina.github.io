@@ -7,6 +7,68 @@ profile:
 published: true
 ---
 
+<!-- JSON-LD structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Dr Olga Dobrushina - Counselling Psychologist",
+  "description": "Counselling psychology in the Glasgow area with a focus on autism, ADHD, and complex trauma. ISST-accredited schema therapist.",
+  "url": "https://dobrushina.care",
+  "telephone": "+44-7933-974269",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Milngavie",
+    "addressRegion": "Glasgow",
+    "postalCode": "G62 8HY",
+    "addressCountry": "UK"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "55.9433",
+    "longitude": "4.3170"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/dobrushina-olga"
+  ],
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Glasgow"
+    },
+    {
+      "@type": "Place",
+      "name": "Milngavie"
+    }
+  ],
+  "priceRange": "££",
+  "medicalSpecialty": [
+    "Psychology",
+    "Schema Therapy",
+    "Autism",
+    "ADHD",
+    "Neurodivergence",
+    "Complex Trauma"
+  ],
+  "serviceType": "Psychology",
+  "provider": {
+    "@type": "Person",
+    "name": "Dr Olga Dobrushina",
+    "description": "HCPC registered counselling psychologist and ISST-certified schema therapist.",
+    "medicalSpecialty": [
+      "Psychology",
+      "Schema Therapy",
+      "Autism",
+      "ADHD",
+      "Neurodivergence",
+      "Complex Trauma"
+    ],
+    "sameAs": "https://www.linkedin.com/in/dobrushina-olga"
+  }
+}
+</script>
+
+
 <sub><sub>Eng / [Ru](Russian.md)</sub></sub>
 
 
