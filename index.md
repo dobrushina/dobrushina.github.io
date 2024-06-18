@@ -72,7 +72,7 @@ published: true
 <sub><sub>Eng / [Ru](Russian.md)</sub></sub>
 
 
-I am a counselling psychologist working with adults and adolescents on emotional regulation, interpersonal skills, and professional effectiveness. I also support couples and parents in improving family relationships. My areas of special interest are working with neurodivergent clients and people experiencing post trauma.
+I am a counselling psychologist working with adults and adolescents on emotional regulation, interpersonal skills, and professional effectiveness. I also support couples and parents in improving family relationships. My areas of special interest are neurodivergence and post trauma.
 
 Being a third-wave CBT (cognitive-behavioral therapy) therapist, I mainly use schema therapy—a contemporary approach that integrates cognitive work (addressing thoughts and beliefs) with deep emotional healing. I also blend into my work EMDR (eye movement desensitization and reprocessing), classical CBT techniques, as well as Acceptance and Commitment Therapy (ACT) and Dialectical Behavioral Therapy (DBT) skills. My work is guided by the clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
 
