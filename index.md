@@ -7,6 +7,13 @@ profile:
 published: true
 ---
 
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="Dr Olga Dobrushina" />
+<meta property="og:description" content="Counselling Psychologist (HCPC), MD, PhD" />
+<meta property="og:image" content="https://www.dobrushina.care/assets/images/profile.png" />
+<meta property="og:url" content="hhttps://www.dobrushina.care" />
+<meta property="og:type" content="website" />
+
 <!-- JSON-LD structured data -->
 <script type="application/ld+json">
 {
@@ -71,17 +78,13 @@ published: true
 
 <sub><sub>Eng / [Ru](Russian.md)</sub></sub>
 
+I am an HCPC-registered counselling psychologist and an ISST-accredited schema therapist offering psychotherapy to adults, adolescents, children, and families. With both medical and psychological education, over ten years of experience in neurology, and a strong record of neuroscience research, I am especially helpful in supporting clients whose brains work differently—neurodivergent people, and those experiencing complex trauma or consequences of brain injury.
 
-I am a counselling psychologist working with adults and adolescents on emotional regulation, interpersonal skills, and professional effectiveness. I also support couples and parents in improving family relationships. My areas of special interest are neurodivergence and post trauma.
+As a third-wave CBT (cognitive-behavioral therapy) therapist, I mainly use schema therapy—a contemporary approach that integrates cognitive work (addressing thoughts and beliefs) with deep emotional healing. I also blend EMDR (eye movement desensitization and reprocessing), classical CBT techniques, as well as Acceptance and Commitment Therapy (ACT) and Dialectical Behavioral Therapy (DBT) skills. My work is guided by the clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
 
-Being a third-wave CBT (cognitive-behavioral therapy) therapist, I mainly use schema therapy—a contemporary approach that integrates cognitive work (addressing thoughts and beliefs) with deep emotional healing. I also blend into my work EMDR (eye movement desensitization and reprocessing), classical CBT techniques, as well as Acceptance and Commitment Therapy (ACT) and Dialectical Behavioral Therapy (DBT) skills. My work is guided by the clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
+In schema therapy, we explore schemas, which are patterns of memories, beliefs, emotions, and bodily sensations originating from childhood adversities and shaping the way we perceive and feel today. Using special techniques, we reduce the influence of schemas and develop the 'Healthy Adult'—our wiser part responsible for self-care and value-directed life. The process of schema therapy is intense and engaging. We not only talk but also move from chair to chair and work in imagination. Sometimes, we draw diagrams, because schema therapy is guided by a case conceptualization that is shared with the client. We often do role-play and skills training. I explain all the steps and the science behind them.
 
-We explore schemas, which are patterns of memories, beliefs, emotions, and bodily sensations originating from the childhood adversities and shaping the way we perceive and feel today. Using special techniques, we reduce the influence of schemas and develop the 'Healthy Adult'—our wiser part responsible for self-care and value-directed life.
-
-The process of schema therapy is intense and engaging. We not only talk but also move from chair to chair and work in imagination. Sometimes, we draw diagrams, because schema therapy is guided by a case conceptualization that is shared with the client. We often do role-play and skills training. I explain all the steps and the science behind them. Typically, we meet once a week for an hour, and the duration of therapy can vary from 20 to over 40 sessions.
-
-When working with neurodivergent clients, I consult on specific topics such as sensory needs, arousal regulation, attention difficulties, masking, and burnout (neurocoaching). I use schema therapy and EMDR to process the usually present trauma and to help my clients develop flexible, more authentic ways of dealing with current social demands.
-
+When working with neurodivergent clients, I consult on specific topics such as sensory needs, arousal regulation, attention difficulties, masking, and burnout (neurocoaching). I use schema therapy and EMDR to process the usually present trauma and to help my clients develop flexible, more authentic ways of dealing with current social demands. Being trained both in couple and in child and adolescent therapy, I offer support in family relationships, taking into account the influence of neurodivergence.
 
 ### When I can help
 - Neurodivergence: autism, ADHD, consequences of traumatic brain injury, stroke, brain tumors
@@ -102,25 +105,25 @@ I completed a Master's programme in psychological counselling, studied cognitive
 
 Holding a PhD degree in Medicine, I combine psychological counselling with neuroscience research and neurotechnology development. Currently, I am based at the University of Strathclyde (Glasgow), in the Laboratory for Innovation in Autism. Using advanced neurophysiological methods such as fMRI, I study the brain networks regulating our emotional and physical states and develop technologies supporting mental well-being. On the practical side of neurotechnology, for many years I have been using biofeedback, neurofeedback, and QEEG to enrich my clinical work. Understanding how the nervous system functions helps me support people whose brains work differently. I adhere to the neuroaffirmative approach, not considering autistic or ADHD brain to be inferior to a neurotypical one, but recognising that it requires special care to thrive.
 
-My professional experience includes training and supervising other professionals. In Russia, I founded and led a department providing integrative medical and psychological care to adults and children with brain injury, autism, ADHD, and other types of neurodivergence (25 professionals). I co-organised a practicum on neuropsychological rehabilitation for MSc in psychology students from the Lomonosov Moscow State University. From 2016 to 2021, I provided annual so called "neuroschools" focused on using neurotechnologies in mental healthcare. Recently, I developed and ran a 3-day workshop, "From Neuroscience to Schema Therapy: Working with Neurodivergent Clients and More," which was attended by more than 80 participants.
+My professional experience includes training and supervising other professionals. In Russia, I founded and led a department providing integrative medical and psychological care to adults and children with brain injury, autism, ADHD, and other types of neurodivergence (25 professionals). I co-organised a practicum on neuropsychological rehabilitation for MSc in psychology students from the Lomonosov Moscow State University. From 2016 to 2021, I provided annual schools focused on using neurotechnologies in mental healthcare. Recently, I developed and ran a 3-day workshop, "From Neuroscience to Schema Therapy: Working with Neurodivergent Clients and More," which was attended by more than 80 participants.
 
-I am 39 years old, married, and I have three children. I was born in Moscow, moved to Israel in 2022, and to the United Kingdom in 2024. Currently, I am happy to live and work in Scotland.
+I am 39 years old, married, and I have three children. I was born in Moscow, spent some of my childhood in the US, moved to Israel in 2022, and to the United Kingdom in 2024. Currently, I am happy to live and work in Scotland. My multicultural experience helps me to understand people with diverse backgrounds and those experiencing immigration.
 
 
 ### My certificates in psychotherapy
-- Moscow Institute of Schema Therapy, individual schema therapy, ISST accredited course (A. Yaltonskaya, N. Gegel)
-- Institut für Schematherapie-Frankfurt, couple schema therapy, ISST accredited course (E. Roediger)
-- Sankt-Petersburg Institute of Schema Therapy, child and adolescent schema therapy, ISST accredited course (P. Kasyannik, M. Galimzyanova)
-- Institut für Schematherapie-Frankfurt, contextual schema-therapy (E. Roediger)
-- Moscow EMDR Center, certification training in EMDR (U. Oren and N. Gradovskaya)
-- Praxis, ACT Immersion (acceptance and commitment therapy; S. Hayes)
-- Schema Therapy Training Online: Integrating Schema Therapy with DBT (Dialectical Behavioral Therapy; C. Hepworth)
-- Schema Therapy Training Online: Schema Therapy for Eating Disorders (S. Simpson)
-- Beck Institute, cognitive behavioral therapy (J. Beck)
-- Anna Freud Center, Mentalization-Based Treatment: Basic Training (A. Bateman)
-- Lomonosov Moscow State University, children neuropsychology: diagnostic and correction (T.V. Achutina)
-- Institute for childhood, family and parenting, method of substitute ontogenesis (A. Bludova)
-- Medbridge Educational Platform, SCERTS model (Social Communication, Emotional Regulation and Transactional Support) for autism (B. Prizant, A. Wetherby, E. Rubin)
+- Moscow Institute of Schema Therapy, individual schema therapy, ISST accredited course
+- Institut für Schematherapie-Frankfurt, couple schema therapy, ISST accredited course
+- Sankt-Petersburg Institute of Schema Therapy, child and adolescent schema therapy, ISST accredited course
+- Institut für Schematherapie-Frankfurt, contextual schema-therapy
+- Moscow EMDR Center, certification training in EMDR
+- Praxis, ACT Immersion (acceptance and commitment therapy)
+- Schema Therapy Training Online: Integrating Schema Therapy with DBT (Dialectical Behavioral Therapy)
+- Schema Therapy Training Online: Schema Therapy for Eating Disorders
+- Beck Institute, cognitive behavioral therapy
+- Anna Freud Center, Mentalization-Based Treatment: Basic Training
+- Lomonosov Moscow State University, children neuropsychology: diagnostic and correction
+- Institute for childhood, family and parenting, method of substitute ontogenesis
+- Medbridge Educational Platform, SCERTS model (Social Communication, Emotional Regulation and Transactional Support) for autism
 
 [Full CV](files/CV_Dobrushina.pdf)
 
