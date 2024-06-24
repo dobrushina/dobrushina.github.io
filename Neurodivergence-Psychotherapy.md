@@ -48,21 +48,41 @@ While some difficulties come from the neurodivergence itself, others originate f
 
 Last but not least, neurodivergent people might need family and couple therapy. As a rule of thumb, autism and ADHD can be found in several family members, both because they are genetically inherited and because neurodivergent people tend to find neurodivergent partners more interesting. In such neurodivergent families, brains might show more differences between the family members than in a neurotypical family, making it more difficult for the members to understand each other. In addition, high sensitivity, intensity of emotional experiences and limited energy resources make it more challenging to get along. Parents might experience burnout, and couples might face conflicts or disconnection. Couple and family therapy taking into account the influence of neurodivergence can be highly beneficial in such cases.
 
+### References
+<span class="small-text">
 (1) A detailed guide on neuroaffirmative language can be found here: <https://ndconnection.co.uk/resources/p/nd-affirming-language-guide>
+
 (2) E. Abdelnour, M. Jansen, J. Gold. ADHD Diagnostic Trends: Increased Recognition or Overdiagnosis? <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9616454/>
+
 (3) R. Sacco et al. The Prevalence of Autism Spectrum Disorder in Europe <https://www.intechopen.com/chapters/84388>
-(4) See, for example, an explanation by NHS: “Being autistic does not mean you have an illness or disease. It means your brain works in a different way from other people.” <https://www.nhs.uk/conditions/autism/what-is-autism>  
+
+(4) See, for example, an explanation by NHS: “Being autistic does not mean you have an illness or disease. It means your brain works in a different way from other people.” <https://www.nhs.uk/conditions/autism/what-is-autism>
+
 (5) O. Benkarim et al. Connectivity alterations in autism reflect functional idiosyncrasy <https://doi.org/10.1038/s42003-021-02572-6>
+
 (6) E. Pellicano, D. Burr. When the world becomes ‘too real’: a Bayesian explanation of autistic perception. <https://doi.org/10.1016/j.tics.2012.08.009>
+
 (7) K. Rubia. Cognitive Neuroscience of Attention Deficit Hyperactivity Disorder (ADHD) and Its Clinical Translation. <https://doi.org/10.3389/fnhum.2018.00100>
+
 (8) L. Schippers et al. A qualitative and quantitative study of self-reported positive characteristics of individuals with ADHD. <https://doi.org/10.3389/fpsyt.2022.922788>
+
 (9) M.Hossain et al. Prevalence of comorbid psychiatric disorders among people with autism spectrum disorder: An umbrella review of systematic reviews and meta-analyses. <https://www.sciencedirect.com/science/article/abs/pii/S0165178120300093>
+
 (10) M. Katzman et al. Adult ADHD and comorbid disorders: clinical implications of a dimensional approach. <https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-017-1463-3>
+
 (11) C. Fitzgerald et al. Suicidal behaviour among persons with attention-deficit hyperactivity disorder. <https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/suicidal-behaviour-among-persons-with-attentiondeficit-hyperactivity-disorder/6CECF48A64E415C871D233B2607114ED>
+
 (12) T. Hirvikoski et al. Premature mortality in autism spectrum disorder. <https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/premature-mortality-in-autism-spectrum-disorder/4C9260DB64DFC29AF945D32D1C15E8F2>
+
 (13) C. Baou at el. Effectiveness of primary care psychological therapy services for treating depression and anxiety in autistic adults in England: a retrospective, matched, observational cohort study of national health-care records. <https://www.sciencedirect.com/science/article/pii/S2215036623002912>
+
 (14) N. Doyle. Neurodiversity at work: a biopsychosocial model and the impact on working adults. <https://academic.oup.com/bmb/article/135/1/108/5913187>
+
 (15) You can find a self-assessment masking questionnaire here: <https://embrace-autism.com/cat-q/>
+
 (16) S. Cassidy et al. Is Camouflaging Autistic Traits Associated with Suicidal Thoughts and Behaviours? Expanding the Interpersonal Psychological Theory of Suicide in an Undergraduate Student Sample. <https://pubmed.ncbi.nlm.nih.gov/31820344/>
+
 (17) N. Brown et al. Associations Between Adverse Childhood Experiences and ADHD Diagnosis and Severity. <https://doi.org/10.1016/j.acap.2016.08.013>
-(18) D. Hoover, J. Kaufman. Adverse childhood experiences in children with autism spectrum disorder. <https://doi.org/10.1097/yco.0000000000000390> 
+
+(18) D. Hoover, J. Kaufman. Adverse childhood experiences in children with autism spectrum disorder. <https://doi.org/10.1097/yco.0000000000000390>
+</span>
