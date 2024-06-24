@@ -85,12 +85,13 @@ In schema therapy, we explore schemas, which are patterns of memories, beliefs, 
 When working with neurodivergent clients, I consult on specific topics such as sensory needs, arousal regulation, attention difficulties, masking, and burnout (neurocoaching). I use schema therapy and EMDR to process the usually present trauma and to help my clients develop flexible, more authentic ways of dealing with current social demands. Being trained both in couple and in child and adolescent therapy, I offer support in family relationships, taking into account the influence of neurodivergence.
 
 ### When I can help
-- Neurodivergence: autism, ADHD, consequences of traumatic brain injury, stroke, brain tumors
+- [Neurodivergence](Neurodivergence-Psychotherapy.md): autism, ADHD, consequences of traumatic brain injury, stroke, brain tumors
 - Posttraumatic conditions, such as PTSD and cPTSD
 - Anxiety and depression, other difficulties in emotional regulation
 - Psychosomatic symptoms and coping with chronic diseases
 - Difficulties in relationships, including couples and parenting
-- Personality disorders including BPD (borderline personality disorder). Self-mutilating behaviour
+- Personality disorders including BPD (borderline personality disorder)
+- Self-mutilating behaviour
 - Eating disorders
 
 
@@ -112,7 +113,7 @@ I am 39 years old, married, and I have three children. I was born in Moscow, spe
 Glasgow, UK, and remotely.
 Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +447933974269, Telegram: @Dobrushina.
 
-I also offer therapy in Russian.
+I also offer therapy in [Russian](Russian.md).
 
 The cost of a session is £120, the duration is 50-55 minutes.
 I offer free initial 15-minuite consultations.
