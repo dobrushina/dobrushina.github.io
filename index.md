@@ -76,8 +76,6 @@ published: true
 </script>
 
 
-<sub><sub>Eng / [Ru](Russian.md)</sub></sub>
-
 I am an HCPC-registered counselling psychologist and an ISST-accredited schema therapist offering psychotherapy to adults, adolescents, children, and families. With both medical and psychological education, over ten years of experience in neurology, and a strong track record in neuroscience, I am especially helpful in supporting clients whose brains work differently—neurodivergent people, and those experiencing complex trauma or consequences of brain injury.
 
 As a third-wave CBT (cognitive-behavioral therapy) therapist, I mainly use schema therapy—a contemporary approach that integrates cognitive work (addressing thoughts and beliefs) with deep emotional healing. I also blend EMDR (eye movement desensitization and reprocessing), classical CBT techniques, as well as Acceptance and Commitment Therapy (ACT) and Dialectical Behavioral Therapy (DBT) skills. My work is guided by the clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
