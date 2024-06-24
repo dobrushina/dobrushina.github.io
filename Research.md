@@ -4,7 +4,7 @@ permalink: /Research
 published: true
 ---
 
-Here is a list of my main scientific works (out of 28 articles), with a plain language explanation of what and why we did. The full list can be found on [Google Scholar](https://scholar.google.com/citations?user=qFhYjmMAAAAJ&hl=en).
+*Here is a list of my main scientific works (out of 28 articles), with a plain language explanation of what and why we did. The full list can be found on [Google Scholar](https://scholar.google.com/citations?user=qFhYjmMAAAAJ&hl=en).*
 
 
 #### Age-Related Changes of Interoceptive Brain Networks: Implications for Interoception and Alexithymia. Emotion.
