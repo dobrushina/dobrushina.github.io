@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /Ru
+permalink: /Russian
 profile:
   align: right
   image: profile.png
