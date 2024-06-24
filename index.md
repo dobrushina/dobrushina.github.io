@@ -97,41 +97,24 @@ When working with neurodivergent clients, I consult on specific topics such as s
 
 
 ### About me
-I am a UK-based counselling psychologist registered with the HCPC (registration number PYL044166) and an ISST-certified schema therapist (membership number 60360358).
+I am a UK-based counselling psychologist registered with the HCPC (PYL044166) and an ISST-certified schema therapist (60360358).
 
 My first education is medical (Lomonosov Moscow State University), and I am licensed as a medical doctor in Israel and Russia. Currently, I do not run a medical practice or prescribe medications, but I use my knowledge and experience to offer my clients the best possible psychological care. Being trained in neurology, I worked for more than ten years with neurodivergent people (autism, ADHD, dyslexia, dysgraphia, consequences of traumatic brain injury, stroke, brain tumours) and with psychosomatic syndromes. Due to my interest in neuropsychology and psychotherapy, I gradually shifted from classical medical work to a more integrative approach.
 
-I completed a Master's programme in psychological counselling, studied cognitive behavioural therapy (CBT) at the Beck Institute, and completed individual, couples, and child and adolescent schema therapy courses certified by the International Society of Schema Therapy (ISST). I am also trained in EMDR, acceptance and commitment therapy, co-experiencing psychotherapy, and mentalisation-based treatment. I have rich experience of my own therapy and receive regular supervision. Besides psychotherapy, I have mastered the skills of cognitive assessment and cognitive training.
+I completed a Master's programme in counselling psychology, studied cognitive behavioural therapy (CBT) at the Beck Institute, and completed individual, couples, and child and adolescent schema therapy courses certified by the International Society of Schema Therapy (ISST). I am also trained in EMDR, acceptance and commitment therapy, co-experiencing psychotherapy, and mentalisation-based treatment. I have rich experience of my own therapy and receive regular supervision. Besides psychotherapy, I have mastered the skills of cognitive assessment and cognitive training.
 
-Holding a PhD degree in Medicine, I combine psychological counselling with neuroscience research and neurotechnology development. Currently, I am based at the University of Strathclyde (Glasgow), in the Laboratory for Innovation in Autism. Using advanced neurophysiological methods such as fMRI, I study the brain networks regulating our emotional and physical states and develop technologies supporting mental well-being. On the practical side of neurotechnology, for many years I have been using biofeedback, neurofeedback, and QEEG to enrich my clinical work. Understanding how the nervous system functions helps me support people whose brains work differently. I adhere to the neuroaffirmative approach, not considering autistic or ADHD brain to be inferior to a neurotypical one, but recognising that it requires special care to thrive.
+With a PhD degree in Medicine, I combine psychological counselling with neuroscience research and neurotechnology development. Currently, I am based at the University of Strathclyde (Glasgow), in the Laboratory for Innovation in Autism. Using advanced neurophysiological methods such as fMRI, I study the brain networks regulating our emotional and physical states and develop technologies supporting mental well-being. On the practical side of neurotechnology, for many years I have been using biofeedback, neurofeedback, and QEEG to enrich my clinical work. Understanding how the nervous system functions helps me support people whose brains work differently. I adhere to the neuroaffirmative approach, not considering autistic or ADHD brain to be inferior to a neurotypical one, but recognising that it requires special care to thrive.
 
-My professional experience includes training and supervising other professionals. In Russia, I founded and led a department providing integrative medical and psychological care to adults and children with brain injury, autism, ADHD, and other types of neurodivergence (25 professionals). I co-organised a practicum on neuropsychological rehabilitation for MSc in psychology students from the Lomonosov Moscow State University. From 2016 to 2021, I provided annual schools focused on using neurotechnologies in mental healthcare. Recently, I developed and ran a 3-day workshop, "From Neuroscience to Schema Therapy: Working with Neurodivergent Clients and More," which was attended by more than 80 participants.
+My professional experience includes training and supervising other professionals. I founded and led an integrative medical and psychological department for adults and children with brain injury, autism, ADHD, and other types of neurodivergence (25 professionals), co-organised a practicum on neuropsychological rehabilitation for MSc in psychology students, provided annual schools on using neurotechnologies in mental healthcare. Recently, I developed and ran a 3-day workshop, "From Neuroscience to Schema Therapy: Working with Neurodivergent Clients and More," which was attended by more than 80 participants.
 
 I am 39 years old, married, and I have three children. I was born in Moscow, spent some of my childhood in the US, moved to Israel in 2022, and to the United Kingdom in 2024. Currently, I am happy to live and work in Scotland. My multicultural experience helps me to understand people with diverse backgrounds and those experiencing immigration.
 
-
-### My certificates in psychotherapy
-- Moscow Institute of Schema Therapy, individual schema therapy, ISST accredited course
-- Institut für Schematherapie-Frankfurt, couple schema therapy, ISST accredited course
-- Sankt-Petersburg Institute of Schema Therapy, child and adolescent schema therapy, ISST accredited course
-- Institut für Schematherapie-Frankfurt, contextual schema-therapy
-- Moscow EMDR Center, certification training in EMDR
-- Praxis, ACT Immersion (acceptance and commitment therapy)
-- Schema Therapy Training Online: Integrating Schema Therapy with DBT (Dialectical Behavioral Therapy)
-- Schema Therapy Training Online: Schema Therapy for Eating Disorders
-- Beck Institute, cognitive behavioral therapy
-- Anna Freud Center, Mentalization-Based Treatment: Basic Training
-- Lomonosov Moscow State University, children neuropsychology: diagnostic and correction
-- Institute for childhood, family and parenting, method of substitute ontogenesis
-- Medbridge Educational Platform, SCERTS model (Social Communication, Emotional Regulation and Transactional Support) for autism
-
-[Full CV](files/CV_Dobrushina.pdf)
 
 ### Contact information
 Glasgow, UK, and remotely.
 Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +447933974269, Telegram: @Dobrushina.
 
-I speak English, Russian, and understand some Hebrew.
+I also offer therapy in Russian.
 
 The cost of a session is £120, the duration is 50-55 minutes.
 I offer free initial 15-minuite consultations.

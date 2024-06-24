@@ -12,8 +12,7 @@
         <h1 class="post-headline">{{site.title}}</h1>
         <h3 class="post-description">{{site.description}}</h3>
 
-        <!--{% include navigation.html %}-->
-        <!--Removed if while I have no extra pages. Olga-->
+        {% include navigation.html %}
 
         {% seo %}
 
@@ -36,7 +35,6 @@
           <p class="copy">
             <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}
                     | Powered by Jekyll and Gradfolio.
-                    Last updated on {{ site.time | date_to_long_string }}
             </small>
           </p>
 
