@@ -81,6 +81,6 @@ Last but not least, neurodivergent people might need family and couple therapy. 
 
 (16) S. Cassidy et al. [Is Camouflaging Autistic Traits Associated with Suicidal Thoughts and Behaviours? Expanding the Interpersonal Psychological Theory of Suicide in an Undergraduate Student Sample.](https://pubmed.ncbi.nlm.nih.gov/31820344/)
 
-(17) N. Brown et al. Associations Between Adverse Childhood Experiences and ADHD Diagnosis and Severity. <https://doi.org/10.1016/j.acap.2016.08.013>
+(17) N. Brown et al. [Associations Between Adverse Childhood Experiences and ADHD Diagnosis and Severity.](https://doi.org/10.1016/j.acap.2016.08.013)
 
-(18) D. Hoover, J. Kaufman. Adverse childhood experiences in children with autism spectrum disorder. <https://doi.org/10.1097/yco.0000000000000390>
+(18) D. Hoover, J. Kaufman. [Adverse childhood experiences in children with autism spectrum disorder.](https://doi.org/10.1097/yco.0000000000000390)
