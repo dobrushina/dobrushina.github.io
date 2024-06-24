@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /
+permalink: /Research
 published: true
 ---
 
