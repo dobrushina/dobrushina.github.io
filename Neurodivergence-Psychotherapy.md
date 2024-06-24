@@ -49,7 +49,6 @@ While some difficulties come from the neurodivergence itself, others originate f
 Last but not least, neurodivergent people might need family and couple therapy. As a rule of thumb, autism and ADHD can be found in several family members, both because they are genetically inherited and because neurodivergent people tend to find neurodivergent partners more interesting. In such neurodivergent families, brains might show more differences between the family members than in a neurotypical family, making it more difficult for the members to understand each other. In addition, high sensitivity, intensity of emotional experiences and limited energy resources make it more challenging to get along. Parents might experience burnout, and couples might face conflicts or disconnection. Couple and family therapy taking into account the influence of neurodivergence can be highly beneficial in such cases.
 
 ### References
-<span class="small-text">
 (1) A detailed guide on neuroaffirmative language can be found here: <https://ndconnection.co.uk/resources/p/nd-affirming-language-guide>
 
 (2) E. Abdelnour, M. Jansen, J. Gold. ADHD Diagnostic Trends: Increased Recognition or Overdiagnosis? <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9616454/>
@@ -85,4 +84,3 @@ Last but not least, neurodivergent people might need family and couple therapy. 
 (17) N. Brown et al. Associations Between Adverse Childhood Experiences and ADHD Diagnosis and Severity. <https://doi.org/10.1016/j.acap.2016.08.013>
 
 (18) D. Hoover, J. Kaufman. Adverse childhood experiences in children with autism spectrum disorder. <https://doi.org/10.1097/yco.0000000000000390>
-</span>
