@@ -96,7 +96,7 @@ When working with neurodivergent clients, I consult on specific topics such as s
 
 
 ### About me
-I am a UK-based counselling psychologist registered with the HCPC (PYL044166) and an ISST-certified schema therapist (60360358).
+I am a UK-based counselling psychologist registered with the HCPC ([PYL044166](https://www.hcpc-uk.org/check-the-register/professional-registration-detail/?query=PYL044166&profession=PYL)) and an ISST-certified schema therapist (]60360358](https://schematherapysociety.org/Sys/PublicProfile/60360358)).
 
 My first education is medical (Lomonosov Moscow State University), and I am licensed as a medical doctor in Israel and Russia. Currently, I do not run a medical practice or prescribe medications, but I use my knowledge and experience to offer my clients the best possible psychological care. Being trained in neurology, I worked for more than ten years with neurodivergent people (autism, ADHD, dyslexia, dysgraphia, consequences of traumatic brain injury, stroke, brain tumours) and with psychosomatic syndromes. Due to my interest in neuropsychology and psychotherapy, I gradually shifted from classical medical work to a more integrative approach.
 
@@ -106,7 +106,7 @@ With a PhD degree in Medicine, I combine psychological counselling with neurosci
 
 My professional experience includes training and supervising other professionals. I founded and led an integrative medical and psychological department for adults and children with brain injury, autism, ADHD, and other types of neurodivergence (25 professionals), co-organised a practicum on neuropsychological rehabilitation for MSc in psychology students, provided annual schools on using neurotechnologies in mental healthcare. Recently, I developed and ran a 3-day workshop, "From Neuroscience to Schema Therapy: Working with Neurodivergent Clients and More," which was attended by more than 80 participants.
 
-I am 39 years old, married, and I have three children. I was born in Moscow, spent some of my childhood in the US, moved to Israel in 2022, and to the United Kingdom in 2024. Currently, I am happy to live and work in Scotland. My multicultural experience helps me to understand people with diverse backgrounds and those experiencing immigration.
+I am 39 years old, married, and I have three children. I was born in Moscow, spent some of my childhood in the US, moved to Israel in 2022, and to the United Kingdom in 2024. Currently, I am happy to live and work in Scotland. My multicultural experience helps me understand people with diverse backgrounds and those experiencing immigration.
 
 
 ### Contact information

@@ -4,7 +4,7 @@ permalink: /Research
 published: true
 ---
 
-*As a researcher, I study how the brain-body connection influences our mental wellbeing, the so-called embodiment, to develop new therapeutic approaches for people whose brains work differently. I draw insight from psychology, neuroscience, and neurotechnology. Currently, I am based at the University of Strathclyde in Glasgow, in the Laboratory for Innovation in Autism.
+*As a researcher, I study how the brain-body connection influences our mental wellbeing to develop new therapeutic approaches for people whose brains work differently. I draw insight from psychology, neuroscience, and neurotechnology. Currently, I am based at the University of Strathclyde in Glasgow, in the Laboratory for Innovation in Autism.
 Below is a list of my main scientific works (out of 28 articles), with a plain language explanation of what and why we did. The full list can be found on [Google Scholar](https://scholar.google.com/citations?user=qFhYjmMAAAAJ&hl=en).*
 
 #### Age-Related Changes of Interoceptive Brain Networks: Implications for Interoception and Alexithymia 
