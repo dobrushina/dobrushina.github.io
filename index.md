@@ -96,7 +96,7 @@ When working with neurodivergent clients, I consult on specific topics such as s
 
 
 ### About me
-I am a UK-based counselling psychologist registered with the HCPC ([PYL044166](https://www.hcpc-uk.org/check-the-register/professional-registration-detail/?query=PYL044166&profession=PYL)) and an ISST-certified schema therapist (]60360358](https://schematherapysociety.org/Sys/PublicProfile/60360358)).
+I am a UK-based counselling psychologist registered with the HCPC ([PYL044166](https://www.hcpc-uk.org/check-the-register/professional-registration-detail/?query=PYL044166&profession=PYL)) and an ISST-certified schema therapist ([60360358](https://schematherapysociety.org/Sys/PublicProfile/60360358)).
 
 My first education is medical (Lomonosov Moscow State University), and I am licensed as a medical doctor in Israel and Russia. Currently, I do not run a medical practice or prescribe medications, but I use my knowledge and experience to offer my clients the best possible psychological care. Being trained in neurology, I worked for more than ten years with neurodivergent people (autism, ADHD, dyslexia, dysgraphia, consequences of traumatic brain injury, stroke, brain tumours) and with psychosomatic syndromes. Due to my interest in neuropsychology and psychotherapy, I gradually shifted from classical medical work to a more integrative approach.
 
