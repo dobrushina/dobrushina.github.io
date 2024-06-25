@@ -4,11 +4,12 @@ permalink: /Neurodivergence-Psychotherapy
 published: true
 ---
 
+*As a psychologist, neuroscientist, and neurodivergent person, I adhere to the neuroaffirmative, non-pathologising approach to psychotherapy. I also believe that while working with ADHD, autism, other neurodevelopmental conditions, and brain injury, it is essential to adjust the therapeutic approach based on the growing body of new research data. In this long read, I have tried to briefly outline my view on neurodivergence and on why and how neurodivergent people can benefit from psychological support.*
 
 ### What is Neurodivergence?
 
 All people have different brains, and the way our neural networks are wired has a profound impact on how we think, feel and communicate. The neurodiversity of humankind makes it interesting to meet people who are not like us and helps us complement each other’s strengths and difficulties, thus being effective as a team.  
-While all people are neurodiverse, some people are also neurodivergent, meaning their brains significantly differ from those of the neuromajority (1). The most common forms of neurodivergence are ADHD and autism, accounting for 5–8% and 1–2.5% of the population (2, 3). Notably, about half of autistic people also have ADHD. Other types of neurodivergence are dyslexia, dysgraphia, dyspraxia and acquired brain injury. In this article, I will talk about psychotherapy for ADHD and autism.
+While all people are neurodiverse, some people are also neurodivergent, meaning their brains significantly differ from those of the neuromajority (1). The most common forms of neurodivergence are ADHD and autism, accounting for 5–8% and 1–2.5% of the population (2, 3). Notably, about half of autistic people also have ADHD. Other types of neurodivergence are dyslexia, dysgraphia, dyspraxia and acquired brain injury. In this article, I will focus on ADHD and autism, but in many aspects, the same can be applied to other types of neurodivergence.
 
 ### Neuroaffirmative Approach vs. Deficit Discourse
 
