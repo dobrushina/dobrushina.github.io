@@ -102,7 +102,7 @@ My first education is medical (Lomonosov Moscow State University), and I am lice
 
 I completed a Master's programme in counselling psychology, studied cognitive behavioural therapy (CBT) at the Beck Institute, and completed individual, couples, and child and adolescent schema therapy courses certified by the International Society of Schema Therapy (ISST). I am also trained in EMDR, acceptance and commitment therapy, co-experiencing psychotherapy, and mentalisation-based treatment. I have rich experience of my own therapy and receive regular supervision. Besides psychotherapy, I have mastered the skills of cognitive assessment and cognitive training.
 
-With a PhD degree in Medicine, I combine psychological counselling with neuroscience [research](Research.md) and neurotechnology development. Currently, I am based at the University of Strathclyde (Glasgow), in the Laboratory for Innovation in Autism. Using advanced neurophysiological methods such as fMRI, I study the brain networks regulating our emotional and physical states and develop technologies supporting mental well-being. On the practical side of neurotechnology, for many years I have been using biofeedback, neurofeedback, and QEEG to enrich my clinical work. Understanding how the nervous system functions helps me support people whose brains work differently. I adhere to the neuroaffirmative approach, not considering autistic or ADHD brain to be inferior to a neurotypical one, but recognising that it requires special care to thrive.
+With a PhD degree in Medicine, I combine psychological counselling with neuroscience [research](Research.md) and neurotechnology development. Currently, I am based at the University of Strathclyde (Glasgow), in the [Laboratory for Innovation in Autism](https://www.strath.ac.uk/research/innovationinautism/). Using advanced neurophysiological methods such as fMRI, I study the brain networks regulating our emotional and physical states and develop technologies supporting mental well-being. On the practical side of neurotechnology, for many years I have been using biofeedback, neurofeedback, and QEEG to enrich my clinical work. Understanding how the nervous system functions helps me support people whose brains work differently. I adhere to the neuroaffirmative approach, not considering autistic or ADHD brain to be inferior to a neurotypical one, but recognising that it requires special care to thrive.
 
 My professional experience includes training and supervising other professionals. I founded and led an integrative medical and psychological department for adults and children with brain injury, autism, ADHD, and other types of neurodivergence (25 professionals), co-organised a practicum on neuropsychological rehabilitation for MSc in psychology students, provided annual schools on using neurotechnologies in mental healthcare. Recently, I developed and ran a 3-day workshop, "From Neuroscience to Schema Therapy: Working with Neurodivergent Clients and More," which was attended by more than 80 participants.
 
@@ -112,8 +112,6 @@ I am 39 years old, married, and I have three children. I was born in Moscow, spe
 ### Contact information
 Glasgow, UK, and remotely.
 Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +447933974269, Telegram: @Dobrushina.
-
-I also offer therapy in [Russian](Russian.md).
 
 The cost of a session is £120, the duration is 50-55 minutes.
 I offer free initial 15-minuite consultations.
