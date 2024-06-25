@@ -24,8 +24,13 @@ Schema therapy is an evidence-based method. Studies have shown that it is effect
 While some references are provided below, you can find an extensive list of schema therapy studies [here](https://www.schematherapyscotland.com/evidence-base-for-schema-therapy-2/).
 
 (1)	Giesen-Bloo, J., van Dyck, R., Spinhoven, P., van Tilburg, W., Dirksen, C., van Asselt, T., Kremers, I., Nadort, M. & Arntz, A. (2006) Outpatient psychotherapy for borderline personality disorder: Randomised trial of schema-focused therapy versus transference-focused psychotherapy Archives of General Psychiatry, 63(6) 649-658. DOI: [10.1001/archpsyc.63.6.649](https://doi.org/10.1001/archpsyc.63.6.649)
+
 (2)	Bamelis, L., Evers, S., Spinhoven, P., & Arntz, A. (2014) Results of a multicenter randomized controlled trial of the clinical effectiveness of schema therapy for personality disorders. The American Journal of Psychiatry, 17(3), 305-322. DOI: [10.1176/appi.ajp.2013.12040518](https://doi.org/10.1176/appi.ajp.2013.12040518)
+
 (3) Boterhoven de Haan, K.L., Lee, C.W., Fassbinder, E. et al. (2017) Imagery rescripting and eye movement desensitisation and  reprocessing for treatment of adults with childhood trauma-related post-traumatic stress disorder: IREM study design. BMC Psychiatry 17, 165. DOI: [10.1186/s12888-017-1330-2](https://doi.org/10.1186/s12888-017-1330-2)
+
 (4) Carter, J., McIntosh, V., Jordan, J., Porter, R., Frampton, C. & Joyce, P. (2013). Psychotherapy for depression: a randomized clinical trial comparing schema therapy and cognitive behavior therapy. Journal of Affective Disorders, 151(2), 500-505. DOI: [10.1016/j.jad.2013.06.034](https://doi.org/10.1016/j.jad.2013.06.034)
+
 (5) Gude, T. & Hoffart, H. (2008). Change in interpersonal problems after cognitive agoraphobia and schema focused therapy versus psychodynamic treatment as usual of inpatients with agoraphobia and Cluster C personality disorders. Scandinavian Journal of Psychology, 49, 195-199. DOI: [10.1111/j.1467-9450.2008.00629.x](https://doi.org/10.1111/j.1467-9450.2008.00629.x)
+
 (6) McIntosh, V. V., Jordan, J., Carter, J. D., Frampton, C. M., McKenzie, J. M., Latner, J. D., & Joyce, P. R. (2016). Psychotherapy for transdiagnostic binge eating: A randomized controlled trial of cognitive-behavioural therapy, appetite-focused cognitive-behavioural therapy, and schema therapy. Psychiatry research, 240, 412-420. DOI: [10.1016/j.psychres.2016.04.080](https://doi.org/10.1016/j.psychres.2016.04.080)
