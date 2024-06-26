@@ -1,10 +1,13 @@
 ---
 layout: about
 permalink: /Neurodivergence-Psychotherapy
+profile:
+  align: right
+  image: profile.png
 published: true
 ---
 
-*As a psychologist, neuroscientist, and neurodivergent person, I adhere to the neuroaffirmative, non-pathologising approach to psychotherapy. I also believe that while working with ADHD, autism, other neurodevelopmental conditions, and brain injury, it is essential to adjust the therapeutic approach based on the growing body of research data. In this long read, I have tried to briefly outline my view on neurodivergence and on why and how neurodivergent people can benefit from psychological support.*
+>As a psychologist, neuroscientist, and neurodivergent individual, I adhere to the neuroaffirmative, non-pathologising therapeutic approach. I also believe that while working with ADHD, autism, other neurodevelopmental conditions, and brain injury, it is essential to adjust psychotherapy based on the growing body of research data. In this long read, I attempted to briefly outline my view on neurodivergence and why and how neurodivergent people can benefit from psychological support.
 
 ### What is Neurodivergence?
 

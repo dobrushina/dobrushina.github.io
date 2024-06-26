@@ -1,6 +1,9 @@
 ---
 layout: about
 permalink: /Research
+profile:
+  align: right
+  image: profile.png
 published: true
 ---
 
