@@ -1,10 +1,13 @@
 ---
 layout: about
 permalink: /Schema-Therapy
+profile:
+  align: right
+  image: profile.png
 published: true
 ---
 
-*Being academically minded but emotionally sensitive, I love practising schema therapy because it enables me to be systematic and empathic at the same time. Schema therapy originates from CBT but also draws insights from psychodynamic and humanistic therapies, making this integrative approach goal-directed, flexible, dynamic, and deep. As an ISST-accredited schema therapist with both psychological and medical background, I am experienced in applying schema therapy for complex mental conditions in neurotypical and neurodivergent people, as well as in improving the mental wellbeing of people without clinical diagnoses. In addition to individual therapy, I offer couples and family consultations.*
+>Being academically minded but emotionally sensitive, I am passionate about practising schema therapy because it allows me to be both systematic and empathetic. Schema therapy originates from CBT and draws insights from psychodynamic and humanistic therapies, making this integrative approach goal-directed, flexible, dynamic, and deep. As an ISST-accredited schema therapist with both psychological and medical background, I am experienced in applying schema therapy for complex mental conditions in both neurotypical and neurodivergent people, as well as in improving the mental wellbeing of people without clinical diagnoses. In addition to individual therapy, I offer couples and family consultations.
 
 ### Schema Therapy Philosophy
 In schema therapy, we believe that all people, regardless of their gender, nationality and neurotype, have emotional needs. It means that for a human being it is not enough to be dressed and fed, we need much more to thrive. Children and also adults need social connections to feel protected, loved unconditionally and soothed when in distress. At the same time, humans need support and guidance while discovering their strengths and developing healthy autonomy. This is what we call ‘blue leg’ and ‘red leg’, the two social tendencies for connection and individuation, together contributing to a balanced life.
