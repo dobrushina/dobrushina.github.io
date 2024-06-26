@@ -22,7 +22,11 @@
   @media screen and (max-width: $on-phone){
 
     .profile {
-      width: 95%;
+      width: 90%;
+      float: none;  // Remove float on smaller screens
+      display: block;  // Ensure it occupies its own line
+      margin-left: auto;  // Center align
+      margin-right: auto;  // Center align
     }
 
   }
