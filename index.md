@@ -9,7 +9,7 @@ published: true
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Dr Olga Dobrushina" />
-<meta property="og:description" content="Counselling Psychologist (HCPC), MD, PhD" />
+<meta property="og:description" content="Counselling Psychologist, MD, PhD" />
 <meta property="og:image" content="https://www.dobrushina.care/assets/images/profile.png" />
 <meta property="og:url" content="hhttps://www.dobrushina.care" />
 <meta property="og:type" content="website" />
