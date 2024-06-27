@@ -11,8 +11,9 @@ published: true
 <meta property="og:title" content="Dr Olga Dobrushina" />
 <meta property="og:description" content="Counselling Psychologist, MD, PhD" />
 <meta property="og:image" content="https://www.dobrushina.care/assets/images/profile.png" />
-<meta property="og:url" content="hhttps://www.dobrushina.care" />
+<meta property="og:url" content="https://www.dobrushina.care" />
 <meta property="og:type" content="website" />
+<link rel="canonical" href="https://www.dobrushina.care/" />
 
 <!-- JSON-LD structured data -->
 <script type="application/ld+json">
