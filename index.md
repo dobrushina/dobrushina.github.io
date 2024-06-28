@@ -85,7 +85,7 @@ In schema therapy, we explore schemas, which are patterns of memories, beliefs, 
 
 When working with neurodivergent clients, I consult on specific topics such as sensory needs, arousal regulation, attention difficulties, masking, and burnout (neurocoaching). I use schema therapy and EMDR to process the usually present trauma and to help my clients develop flexible, more authentic ways of dealing with current social demands. Being trained both in couple and in child and adolescent therapy, I offer support in family relationships, taking into account the influence of neurodivergence.
 
-### When I can help
+### When I Can Help
 - [Neurodivergence](Neurodivergence-Psychotherapy.md): autism, ADHD, consequences of traumatic brain injury, stroke, brain tumors
 - Posttraumatic conditions, such as PTSD and cPTSD
 - Anxiety and depression, other difficulties in emotional regulation
@@ -96,7 +96,7 @@ When working with neurodivergent clients, I consult on specific topics such as s
 - Eating disorders
 
 
-### About me
+### About Me
 I am a UK-based counselling psychologist registered with the HCPC ([PYL044166](https://www.hcpc-uk.org/check-the-register/professional-registration-detail/?query=PYL044166&profession=PYL)) and an ISST-certified schema therapist ([60360358](https://schematherapysociety.org/Sys/PublicProfile/60360358)).
 
 My first education is medical (Lomonosov Moscow State University), and I am licensed as a medical doctor in Israel and Russia. Currently, I do not run a medical practice or prescribe medications, but I use my knowledge and experience to offer my clients the best possible psychological care. Being trained in neurology, I worked for more than ten years with neurodivergent people (autism, ADHD, dyslexia, dysgraphia, consequences of traumatic brain injury, stroke, brain tumours) and with psychosomatic syndromes. Due to my interest in neuropsychology and psychotherapy, I gradually shifted from classical medical work to a more integrative approach.
@@ -110,7 +110,7 @@ My professional experience includes training and supervising other professionals
 I am 39 years old, married, and I have three children. I was born in Moscow, spent some of my childhood in the US, moved to Israel in 2022, and to the United Kingdom in 2024. Currently, I am happy to live and work in Scotland. My multicultural experience helps me understand people with diverse backgrounds and those experiencing immigration.
 
 
-### Contact information
+### Contact Information
 Glasgow, UK, and online via Zoom
 
 Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +447933974269, Telegram: @Dobrushina.
