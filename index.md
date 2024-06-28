@@ -77,7 +77,7 @@ published: true
 </script>
 
 
-I am an HCPC-registered counselling psychologist and an ISST-accredited schema therapist offering psychotherapy to adults, adolescents, children, and families. With both medical and psychological education, over ten years of experience in neurology, and a strong track record in neuroscience, I am especially helpful in supporting clients whose brains work differently—neurodivergent people, and those experiencing complex trauma, chronic depression or consequences of brain injury.
+I am an HCPC-registered counselling psychologist and an ISST-accredited schema therapist offering psychotherapy to adults, adolescents, children, and families. With both medical and psychological education, over ten years of experience in neurology, and a track record in neuroscience, I am especially helpful in supporting clients whose brains work differently—neurodivergent people, and those experiencing complex trauma, chronic depression or consequences of brain injury.
 
 As a third-wave CBT (cognitive-behavioral therapy) therapist, I mainly use [schema therapy](Schema-Therapy.md)—a contemporary approach that integrates cognitive work (addressing thoughts and beliefs) with deep emotional healing. I also blend EMDR (eye movement desensitization and reprocessing), classical CBT techniques, Acceptance and Commitment Therapy (ACT), and Dialectical Behavioral Therapy (DBT) skills. My work is guided by the clients' real-life goals, but to achieve these goals, we often address not only present experiences but also past ones, especially if the past was traumatic.
 
@@ -111,8 +111,10 @@ I am 39 years old, married, and I have three children. I was born in Moscow, spe
 
 
 ### Contact information
-Glasgow, UK, and remotely.
+Glasgow, UK, and online via Zoom
+
 Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +447933974269, Telegram: @Dobrushina.
 
-The cost of a session is £120, the duration is 50-55 minutes.
-I offer free initial 15-minuite consultations.
+I offer long-term psychological therapy and single or series of consultations on specific topics, such as autism and ADHD post-diagnosis support, parenting children with special needs, or understanding the way your brain works for the goal of professional orientation. If you are interested in working with me, I would be happy to meet for an initial free 15-minute consultation to see how I can help.
+
+My fee is £120 per session (50-55 minutes). I have a limited number of reduced rate slots.
