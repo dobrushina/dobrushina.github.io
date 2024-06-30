@@ -116,5 +116,3 @@ Glasgow, UK, and online via Zoom
 Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +447933974269, Telegram: @Dobrushina.
 
 I offer long-term psychological therapy and single or series of consultations on specific topics, such as autism and ADHD post-diagnosis support, parenting children with special needs, or understanding the way your brain works for the goal of professional orientation. If you are interested in working with me, I would be happy to meet for an initial free 15-minute consultation to see how I can help.
-
-My fee is £120 per session (50-55 minutes). I have a limited number of reduced rate slots.
