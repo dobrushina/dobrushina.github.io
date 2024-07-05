@@ -3,7 +3,7 @@ layout: about
 permalink: /Schema-Therapy
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
 published: true
 ---
 
