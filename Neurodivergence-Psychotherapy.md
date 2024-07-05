@@ -3,7 +3,7 @@ layout: about
 permalink: /Neurodivergence-Psychotherapy
 profile:
   align: right
-  image: profile.png
+  image: neurodivergence-affirmative.jpg
 published: true
 ---
 
