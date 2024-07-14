@@ -110,9 +110,11 @@ My professional experience includes training and supervising other professionals
 I am 39 years old, married, and I have three children. I was born in Moscow, spent some of my childhood in the US, moved to Israel in 2022, and to the United Kingdom in 2024. Currently, I am happy to live and work in Scotland. My multicultural experience helps me understand people with diverse backgrounds and those experiencing immigration.
 
 
-### Contact Information
-Glasgow, UK, and online via Zoom
+### Contact Information and Payment
+I am located in Glasgow, UK, but I mostly work online via Zoom.
 
-Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +447933974269, Telegram: @Dobrushina.
+Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +44 7933974269, Telegram: @Dobrushina.
 
-I offer long-term psychological therapy and single or series of consultations on specific topics, such as autism and ADHD post-diagnosis support, parenting children with special needs, or understanding the way your brain works for the goal of professional orientation. If you are interested in working with me, I would be happy to meet for an initial free 15-minute consultation to see how I can help.
+I offer long-term psychological therapy and single or series of consultations on specific topics, such as autism and ADHD post-diagnosis support, parenting children with special needs, or understanding the way your brain works for professional orientation. If you are interested in working with me, I would be happy to meet for an initial free 15-minute consultation to see how I can help.
+
+My rates start from £100 per session and depend on the type of work. I accept private insurance.
