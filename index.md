@@ -118,3 +118,5 @@ Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +44 793397
 I offer long-term psychological therapy and single or series of consultations on specific topics, such as autism and ADHD post-diagnosis support, parenting children with special needs, or understanding the way your brain works for professional orientation. If you are interested in working with me, I would be happy to meet for an initial free 15-minute consultation to see how I can help.
 
 My rates start from £100 per session and depend on the type of work. I accept private insurance.
+
+Currently, I have no availability for new clients. Please get in touch with me if you are interested in joining my waiting list.
