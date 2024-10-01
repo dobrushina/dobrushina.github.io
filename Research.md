@@ -19,10 +19,10 @@ As people age, they might experience changes in how they process emotions, inclu
 
 
 #### &#128214; Interoceptive Training with Real-Time Haptic vs. Visual Heartbeat Feedback
-Dobrushina, O., Tamim, Y., Wald, I. Y., Maimon, A., & Amedi, A. (2024). BioRxiv.
-doi: [10.1101/2024.01.12.575196](https://doi.org/10.1101/2024.01.12.575196)
+Dobrushina, O., Tamim, Y., Wald, I. Y., Maimon, A., & Amedi, A. (2024). Psychophysiology.
+doi: [10.1111/psyp.14648](http://dx.doi.org/10.1111/psyp.14648)
 
-This paper, currently under review, describes my developments in mental healthcare technology. We invented a device helping people to attune to their bodies, recognising the heartbeats. This is a novel modification of biofeedback—a system providing one with instant information about their bodily state. In our case, we placed a vibration device on the chest paired with ECG recording of the heart activity, to supplement the natural heartbeat sensations with a gentle vibration, thus amplifying them. The study has shown that such naturalistic feedback outperforms the traditional approach to training interoception.
+This paper describes my developments in mental healthcare technology. We invented a device helping people to attune to their bodies, recognising the heartbeats. This is a novel modification of biofeedback—a system providing one with instant information about their bodily state. In our case, we placed a vibration device on the chest paired with ECG recording of the heart activity, to supplement the natural heartbeat sensations with a gentle vibration, thus amplifying them. The study has shown that such naturalistic feedback outperforms the traditional approach to training interoception.
 
 #### &#128214; Sensory Integration in Interoception: Interplay between Top-down and Bottom-up Processing
 Dobrushina, O. R., Arina, G.A., Dobrynina, L.A., et al. (2021). Cortex.
