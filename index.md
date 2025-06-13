@@ -117,6 +117,6 @@ Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +44 793397
 
 I offer long-term psychological therapy and single or series of consultations on specific topics, such as autism and ADHD post-diagnosis support, parenting children with special needs, or understanding the way your brain works for professional orientation.
 
-My rates are £120 per therapy session and £90 for supervision. Currently, I have no availability for new clients. One exception is that I am looking for a couple who are willing to be my accreditation case in couples schema therapy. This means that I will record the sessions and review the recordings with my supervisor (Dr Eckhard Roediger, the developer of the couples schema therapy model). One of the sessions will be assessed by another supervisor rating my work. No one else will see the recordings. I will store them securely and delete after completing the accreditation.
+My rates are £120 per therapy session and £90 for supervision. Currently, I have no availability for new clients.
 
 If you are a professional interested in neurodiversity-affirming psychotherapy, you are welcome to check out my trainings at the [Schema Therapy Scotland](https://www.schematherapyscotland.com/) website or to join my [mailing list](http://eepurl.com/i1SuY2) for healthcare professionals.
