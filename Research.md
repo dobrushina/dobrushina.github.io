@@ -7,11 +7,17 @@ profile:
 published: true
 ---
 
->As a researcher, I study how our brain's wiring shapes our thoughts and feelings, with special interests in the mind-body connection and neurodiversity. I believe that to truly understand mental processes, we need to consider the person as a whole, including their body and social context, rather than only focusing on detached cognitive processes. Using the holistic biopsychosocial model, I draw on insights from neuroscience to support people whose brains work differently.
+>As a researcher, I study how our brain's wiring shapes our thoughts, feelings, and wellbeing, with a special interest in the mind-body connection and neurodiversity. I believe that to deeply understand psychological processes, we need to consider the person as a whole, including their body and social context, rather than only focusing on detached cognition. From this holistic perspective, I draw on insights from neuroscience to develop psychological therapies and mental health technologies.
 
 Currently, I am based at the [Laboratory for Innovation in Autism](https://www.strath.ac.uk/research/innovationinautism/), University of Strathclyde. I work to translate our AI technologies for neurodivergence identification and support into education and healthcare practice.
 
-Below is a list of my main scientific publication (out of 28 articles), with a plain language explanation of what and why we did. The full list can be found on [Google Scholar](https://scholar.google.com/citations?user=qFhYjmMAAAAJ&hl=en).
+Below is a list of my selected scientific publications, with a plain language explanation of what and why we did. The full list can be found on [Google Scholar](https://scholar.google.com/citations?user=qFhYjmMAAAAJ&hl=en).
+
+#### &#128214; Neural Network Mechanisms of Emotional Dysregulation in Cerebral Small Vessel Disease
+Dobrushina, O.R., Dobrynina, L.A., Arina, G.A., et al. (2025). Neurobiology of Aging.
+doi: [10.1016/j.neurobiolaging.2025.07.013](http://dx.doi.org/10.1016/j.neurobiolaging.2025.07.013)
+
+This study looks at why people with cerebral small vessel disease (SVD), a common age-related brain condition, can experience emotional difficulties like depression. We studied nearly 200 adults, combining brain scans with psychological assessments. Our results show that emotional symptoms are linked to changes in how certain brain networks communicate, especially those involved in recognising sensations from withing the body (interoception) and language. The findings suggest that SVD may impair the brain’s ability to regulate emotions by disrupting the system that keeps body and mind connected and in balance. These insights could help us develop better ways to detect and support emotional wellbeing in older adults at risk of dementia.
 
 #### &#128214; Interoceptive Training with Real-Time Haptic vs. Visual Heartbeat Feedback
 Dobrushina, O., Tamim, Y., Wald, I. Y., Maimon, A., & Amedi, A. (2024). Psychophysiology.
