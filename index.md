@@ -117,6 +117,6 @@ Email: [olga@dobrushina.care](mailto:olga@dobrushina.care), WhatsApp: +44 793397
 
 I offer long-term psychological therapy and single or series of consultations on specific topics, such as autism and ADHD post-diagnosis support or parenting children with special needs.
 
-My rates are £120 per therapy session and £90 for supervision. Currently, I have no availability for new clients.
+My rates are £140 per therapy session and £90 for supervision. Currently, I have no availability for new clients.
 
 If you are a professional interested in psychotherapy for neurodivergent clients, you are welcome to check out my trainings at the [Schema Therapy Scotland](https://www.schematherapyscotland.com/) website or to join my [mailing list](http://eepurl.com/i1SuY2) for healthcare professionals.

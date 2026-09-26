@@ -56,7 +56,7 @@ published: true
 Глазго, UK, а также дистанционно
 WhatsApp: +447933974269, Telegram: @Dobrushina, email: [olga@dobrushina.care](mailto:olga@dobrushina.care).
 
-Я разговариваю на русском, английском и совсем немного&nbsp;— на иврите.
+Я разговариваю на русском и английском.
 
 ### <a name="materials"></a>Материалы для клиентов и коллег
 [Упражнения для развития интероцепции](files/Interoception_cards_Rus.pdf)
