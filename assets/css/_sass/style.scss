@@ -44,7 +44,7 @@ a {
 
 
 
-p a {
+p a, article li a {
   color: $text-color;
   text-decoration: none;
   background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
@@ -55,9 +55,9 @@ p a {
   box-shadow: inset 0 0 0 0 lighten($brand-color, 10%);
 
 
-  -webkit-transition: box-shadow ease 1s;
-  -moz-transition: box-shadow ease 1s;
-  transition: box-shadow ease 1s;
+  -webkit-transition: box-shadow ease 0.2s;
+  -moz-transition: box-shadow ease 0.2s;
+  transition: box-shadow ease 0.2s;
   &:hover {
     color: lighten($background-color, 50%);
     -webkit-box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
@@ -106,6 +106,19 @@ blockquote {
   font-style: italic;
 }
 
+
+/* Opening paragraph of a page: slightly larger, upright text (quote styling is kept for real quotes) */
+.lead {
+  font-size: 1.1em;
+}
+
+/* Light green panel for short notices (home page availability, Training mailing list) */
+.panel {
+  clear: both;  /* start below the floated profile photo */
+  padding: 1em 1.5em;
+  border-radius: 8px;
+  background: rgba($brand-color, 0.15);
+}
 
 .headline, .post-headline {
   font-size: 2em;

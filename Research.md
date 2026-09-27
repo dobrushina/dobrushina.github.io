@@ -4,49 +4,53 @@ permalink: /Research
 profile:
   align: right
   image: profile.jpg
+title: Research
+description: Research on interoception, emotion regulation and neurodiversity, translated into psychotherapy, biofeedback and AI tools for neurodiversity assessment.
 published: true
 ---
 
->As a researcher, I study how our brain's wiring shapes our thoughts, feelings, and wellbeing, with a special interest in the mind-body connection and neurodiversity. I believe that to deeply understand psychological processes, we need to consider the person as a whole, including their body and social context, rather than only focusing on detached cognition. From this holistic perspective, I draw on insights from neuroscience to develop psychological therapies and mental health technologies.
+My research asks how emotion is built from the body up: how interoception, our sense of the body's internal state, gives rise to feelings and their regulation. I study how this process is shaped in relationships with other people, how it differs across neurotypes, and how it supports mental and brain health across the lifespan.
+{: .lead}
 
-Currently, I am based at the [Laboratory for Innovation in Autism](https://www.strath.ac.uk/research/innovationinautism/), University of Strathclyde. I work to translate our AI technologies for neurodivergence identification and support into education and healthcare practice.
+I am a Lecturer (Assistant Professor) in the Department of Psychological Sciences and Health and Clinical Director of the [Laboratory for Innovation in Autism](https://www.strath.ac.uk/research/innovationinautism/) at the University of Strathclyde.
 
-Below is a list of my selected scientific publications, with a plain language explanation of what and why we did. The full list can be found on [Google Scholar](https://scholar.google.com/citations?user=qFhYjmMAAAAJ&hl=en).
+### At a glance
+- Over £230,000 in research and innovation funding since 2025, as principal or co-investigator, from Innovate UK (UKRI), the Scottish Funding Council and the International Society of Schema Therapy
+- 38 publications, including first-author papers in *Emotion*, *Psychophysiology*, *Cortex*, *Frontiers in Human Neuroscience*, and *Neurobiology of Aging*
+- Recognised as Exceptional Promise in Tech under the UK Global Talent Programme for my contribution to digital health
+- Academic Editor, *PLOS Mental Health*
 
-#### &#128214; Neural Network Mechanisms of Emotional Dysregulation in Cerebral Small Vessel Disease
-Dobrushina, O.R., Dobrynina, L.A., Arina, G.A., et al. (2025). Neurobiology of Aging.
-doi: [10.1016/j.neurobiolaging.2025.07.013](http://dx.doi.org/10.1016/j.neurobiolaging.2025.07.013)
+As a researcher, clinician and technology developer, I translate science into practice to address mental health needs across human neurodiversity and the lifespan. Below are my four main translational projects with key publications. The full list can be found on [Google Scholar](https://scholar.google.com/citations?user=qFhYjmMAAAAJ&hl=en).
 
-This study looks at why people with cerebral small vessel disease (SVD), a common age-related brain condition, can experience emotional difficulties like depression. We studied nearly 200 adults, combining brain scans with psychological assessments. Our results show that emotional symptoms are linked to changes in how certain brain networks communicate, especially those involved in recognising sensations from withing the body (interoception) and language. The findings suggest that SVD may impair the brain’s ability to regulate emotions by disrupting the system that keeps body and mind connected and in balance. These insights could help us develop better ways to detect and support emotional wellbeing in older adults at risk of dementia.
+### Neurodiversity-affirming psychotherapy
+Neurodivergent clients often do not benefit from therapy that isn't adjusted to their needs. Drawing on affective neuroscience, I have developed a neurodiversity-affirming adaptation of schema therapy and [trained](/Training) over 1,000 mental health professionals worldwide.
 
-#### &#128214; Interoceptive Training with Real-Time Haptic vs. Visual Heartbeat Feedback
-Dobrushina, O., Tamim, Y., Wald, I. Y., Maimon, A., & Amedi, A. (2024). Psychophysiology.
-doi: [10.1111/psyp.14648](http://dx.doi.org/10.1111/psyp.14648)
+Current project: a mixed-methods international study of unmet needs, adverse childhood experiences, schemas and schema modes in neurodivergent adults, funded by the International Society of Schema Therapy and led by Liam Spicer, with the Cairnmillar Institute, the University of Western Australia and City St George's, University of London.
 
-This paper describes my developments in mental healthcare technology. We invented a device helping people to attune to their bodies, recognising the heartbeats. This is a novel modification of biofeedback—a system providing one with instant information about their bodily state. In our case, we placed a vibration device on the chest paired with ECG recording of the heart activity, to supplement the natural heartbeat sensations with a gentle vibration, thus amplifying them. The study has shown that such naturalistic feedback outperforms the traditional approach to training interoception.
+- Challenges autistic ADHD (AuDHD) young people face in the transition to adulthood, and how schema therapy can help.<br><small>Dobrushina, O. (2026). Neurodivergent transition to adulthood: AuDHD challenges and the way forward. In H. Kahya (Ed.), *Neuro-affirming approaches in schema therapy: Working affirmatively with neurodevelopmental differences*. Routledge. In press.</small>
+- How neuroscience concepts help make sense of psychotherapy practice.<br><small>Dobrushina, O. (2024). Current neuroscientific concepts and psychotherapy: Possibilities for integration. *Neuroscience and Behavioral Physiology*. doi: [10.1007/s11055-024-01649-z](https://doi.org/10.1007/s11055-024-01649-z)</small>
 
-#### &#128214; Age-Related Changes of Interoceptive Brain Networks: Implications for Interoception and Alexithymia 
-Dobrushina, O. R., Dobrynina, L. A., Arina, G. A., et al. (2024). Emotion.
-doi: [10.1037/emo0001366](http://dx.doi.org/10.1037/emo0001366)
+### Biofeedback and interoceptive technology
+Biofeedback gives people real-time information about their bodily states, helping them understand and regulate their emotions. I study how biofeedback shapes brain connectivity and develop new technologies that make it natural, effective, and friendly for neurodivergent people and young children.
 
-As people age, they might experience changes in how they process emotions, including a condition called alexithymia, which makes it hard to identify and describe emotions. Alexithymia is linked to depression and several physical health disorders, including hypertension and myocardial infarction. In this work, we have shown that age-related alexithymia is related to difficulties in sensing the body (interoception) and to functional alterations in the brain areas responsible for interoception. Thus, we suppose that practices supporting mind-body connection might help older adults stay mentally and physically healthy.
+- Naturalistic, haptic heartbeat feedback improves body awareness more effectively than visual biofeedback. One of Wiley's top-viewed articles in 2025.<br><small>Dobrushina, O., Tamim, Y., Wald, I. Y., Maimon, A., & Amedi, A. (2024). Interoceptive training with real-time haptic versus visual heartbeat feedback. *Psychophysiology*. doi: [10.1111/psyp.14648](https://doi.org/10.1111/psyp.14648)</small>
+- A pilot study suggesting that infra-low frequency neurofeedback can strengthen brain connectivity in older adults.<br><small>Dobrushina, O. R., Dobrynina, L. A., Arina, G. A., et al. (2022). Enhancing brain connectivity with infra-low frequency neurofeedback during aging: A pilot study. *Frontiers in Human Neuroscience*. doi: [10.3389/fnhum.2022.891547](https://doi.org/10.3389/fnhum.2022.891547)</small>
+- A sham-controlled trial of infra-low frequency neurofeedback for people with tension-type headache.<br><small>Arina, G. A., Dobrushina, O. R., Shvetsova, E. M., et al. (2022). Infra-low frequency neurofeedback in tension-type headache: A cross-over sham-controlled study. *Frontiers in Human Neuroscience*. doi: [10.3389/fnhum.2022.891323](https://doi.org/10.3389/fnhum.2022.891323)</small>
+- A single session of neurofeedback changes brain networks, even without conscious engagement; viewed over 9,500 times.<br><small>Dobrushina, O. R., Vlasova, R. M., Rumshiskaya, A. D., et al. (2020). Modulation of intrinsic brain connectivity by implicit electroencephalographic neurofeedback. *Frontiers in Human Neuroscience*. doi: [10.3389/fnhum.2020.00192](https://doi.org/10.3389/fnhum.2020.00192)</small>
 
-#### &#128214; Sensory Integration in Interoception: Interplay between Top-down and Bottom-up Processing
-Dobrushina, O. R., Arina, G.A., Dobrynina, L.A., et al. (2021). Cortex.
-doi: [10.1016/j.cortex.2021.08.009](https://doi.org/10.1016/j.cortex.2021.08.009)
+### AI for neurodiversity assessment
+Early identification helps neurodivergent children get the right support, but assessment is often slow and hard to access. With Prof Jonathan Delafield-Butt and colleagues at the Laboratory for Innovation in Autism, I develop AI technologies that identify neurodivergence through a smart-tablet serious game, and work to bring them into education and healthcare practice.
 
-This more fundamental work addresses how body perception is organised in the brain. We mapped out the neural networks supporting the so-called top-down and bottom-up processing of the bodily states. Top-down refers to our predictions about what might happen in the body, while bottom-up reflects orientation on the incoming sensory information rather than on ideas about what might be happening. The balance between these two processes allows accurate perception of the body, i.e. effective interoception, which is a cornerstone of mental wellbeing.
+Funded by Innovate UK (UKRI) and the Scottish Funding Council, with support from the UKRI & Pioneer AI in Healthcare Accelerator.
 
+- A multi-site evaluation of how accurately our smart-tablet game identifies neurodivergence in preschool children.<br><small>Delafield-Butt, J., Sobota, K., Lu, S.-C., Dobrushina, O., et al. (2026). Artificial intelligence-driven identification of neurodivergence in preschool children: A multi-site Phase III diagnostic evaluation of a scalable smart-tablet serious game. Under revision in *eClinicalMedicine*.</small>
+- How artificial intelligence can support the assessment of neurodiversity in inclusive education.<br><small>Dobrushina, O., Robinson, D., & Delafield-Butt, J. (2026). Artificial intelligence assessment of neurodiversity in inclusive education. In S. Al Maadeed, M. Saleh, & R. Kumar M (Eds.), *AI for inclusive education*. Elsevier. In press.</small>
 
-#### &#128214; The Ability to Understand Emotions is Associated with Interoception‐related Insular Activation and White Matter Integrity during Ageing
-Dobrushina, O. R., Arina, G.A., Dobrynina, L.A., et al. (2020). Psychophysiology.
-doi: [10.1111/psyp.13537](https://doi.org/10.1111/psyp.13537)
+### Emotion regulation, interoception, and brain health
+Emotional difficulties often accompany age-related changes in the brain. I study how our sense of the body's internal state (interoception) supports emotion regulation as we age, focusing on cerebral small vessel disease, a common age-related condition that raises the risk of dementia.
 
-The study addresses the problem of small vessel disease (SVD)—a major cause of age-related cognitive decline. We have shown that early signs of SVD are more prevalent in people who have difficulties understanding their emotions, which is, in turn, related to lower activation of the insular cortex while attempting to listen to the body. This work has started our exploration of the importance of the mind-body connection for the mental wellbeing of older adults.
-
-
-#### &#128214; Modulation of Intrinsic Brain Connectivity by Implicit Electroencephalographic Neurofeedback
-Dobrushina, O. R., Vlasova, R. M., Rumshiskaya, A. D., et al. (2020). Frontiers in Human Neuroscience.
-doi: [10.3389/fnhum.2020.00192](https://doi.org/10.3389/fnhum.2020.00192)
-
-In this study, we have shown that infra-low frequency neurofeedback, a noninvasive technique used to enhance cognitive and emotional, shows a strong influence on brain networks. The sham-controlled design allowed us to claim that the brain changes observed were indeed related to the effect of neurofeedback. This popular article was viewed and downloaded over 9500 times, which corresponds to 89% view rank of all Frontiers articles. It was referenced in four books on neurotechnology and called “an important milestone in the understanding of Neurofeedback” by [industry leaders](https://beemedic.com/en/study-proves-just-one-session-ilf-neurofeedback-results-significant-changes-brain-connectivity).
+- Communication between the brain and the heart is already disrupted in the early stages of small vessel disease.<br><small>Dobrushina, O. R., Dobrynina, L. A., Arina, G. A., et al. (2026). Disrupted neurovisceral integration in early small vessel disease. *bioRxiv*, under revision in *Brain Communications*. doi: [10.1101/2025.10.03.678529](https://doi.org/10.1101/2025.10.03.678529)</small>
+- Emotional difficulties in small vessel disease are linked to changes in brain networks that support understanding of the body and emotions.<br><small>Dobrushina, O. R., Dobrynina, L. A., Arina, G. A., et al. (2025). Neural network mechanisms of emotional dysregulation in cerebral small vessel disease. *Neurobiology of Aging*. doi: [10.1016/j.neurobiolaging.2025.07.013](https://doi.org/10.1016/j.neurobiolaging.2025.07.013)</small>
+- Age-related difficulties in identifying emotions (alexithymia) are linked to reduced body awareness and changes in interoceptive brain networks.<br><small>Dobrushina, O. R., Dobrynina, L. A., Arina, G. A., et al. (2024). Age-related changes of interoceptive brain networks: Implications for interoception and alexithymia. *Emotion*. doi: [10.1037/emo0001366](https://doi.org/10.1037/emo0001366)</small>
+- Maps the brain networks that balance our expectations about the body with incoming bodily signals.<br><small>Dobrushina, O. R., Arina, G. A., Dobrynina, L. A., et al. (2021). Sensory integration in interoception: Interplay between top-down and bottom-up processing. *Cortex*. doi: [10.1016/j.cortex.2021.08.009](https://doi.org/10.1016/j.cortex.2021.08.009)</small>
+- Early signs of small vessel disease are more common in people who find it hard to understand their emotions.<br><small>Dobrushina, O. R., Arina, G. A., Dobrynina, L. A., et al. (2020). The ability to understand emotions is associated with interoception-related insular activation and white matter integrity during ageing. *Psychophysiology*. doi: [10.1111/psyp.13537](https://doi.org/10.1111/psyp.13537)</small>

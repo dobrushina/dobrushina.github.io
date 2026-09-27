@@ -1,12 +1,12 @@
 /* Profile */
 .profile {
-    border-style: solid;
-    border-color: $light-gray;
+    border: 2px solid $light-gray;
     margin-left: 1rem;
     margin-right: 1rem;
     margin-bottom: 1rem;
     border-radius: 6px;
     border-radius: 50%;
+    width: 25%;
 }
 
 .left {
@@ -22,7 +22,7 @@
   @media screen and (max-width: $on-phone){
 
     .profile {
-      width: 90%;
+      width: 170px;
       float: none;  // Remove float on smaller screens
       display: block;  // Ensure it occupies its own line
       margin-left: auto;  // Center align

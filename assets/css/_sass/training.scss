@@ -1,0 +1,104 @@
+/* Navigation: mark the current page */
+.links a[aria-current="page"] {
+  color: $text-color;
+  border-bottom: 2px solid $brand-color;
+
+  @media (prefers-color-scheme: dark) {
+    color: $text-color-dark;
+  }
+}
+
+/* ---------- Training page styles (Training.md) ---------- */
+
+/* Featured workshop card; translucent green so it works in light and dark mode */
+.training-card {
+  clear: both;  /* start below the floated profile photo */
+  margin: 1.5em 0 2.5em;
+  padding: 1.25em 1.5em;
+  border: 1px solid rgba($brand-color, 0.4);
+  border-radius: 8px;
+  background: rgba($brand-color, 0.06);
+
+  @include media-query($on-phone) {
+    padding: 1em;
+  }
+}
+
+.training-label {
+  margin: 0;
+  font-size: $small-font-size;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Key facts: side by side on desktop, stacked on phones */
+.training-facts {
+  display: flex;
+  gap: 1.5em;
+  margin: 1em 0;
+
+  div { flex: 1; }
+  dt  { font-weight: 600; }
+  dd  { margin: 0; }
+
+  @include media-query($on-phone) {
+    flex-direction: column;
+    gap: 0.75em;
+  }
+}
+
+.training-prices {
+  border-collapse: collapse;
+  margin: 1em 0;
+
+  th, td {
+    padding: 0.4em 1em 0.4em 0;
+    border-bottom: 1px solid rgba($light-gray, 0.3);
+    text-align: left;
+    vertical-align: top;
+  }
+  th { white-space: nowrap; }
+}
+
+.training-booking {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em 1em;
+  margin: 1.5em 0;
+}
+
+/* Darker green than $brand-color so white text passes contrast */
+.training-button {
+  display: inline-block;
+  padding: 0.6em 1.4em;
+  border-radius: 8px;
+  background: #2f7d3b;
+  color: #fff;
+  font-weight: 600;
+
+  &:hover, &:focus {
+    background: darken(#2f7d3b, 8%);
+    color: #fff;
+
+    @media (prefers-color-scheme: dark) {
+      color: #fff;
+    }
+  }
+}
+
+.training-attribution {
+  font-size: $small-font-size;
+  font-style: normal;
+}
+
+.training-mailing {
+  margin-top: 2.5em;
+
+  p { margin-bottom: 0.5em; }
+}
+
+/* List titles use the heading font: Work Sans is only loaded at weight 400, so <strong> would not look bold */
+.training-list strong {
+  font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+}

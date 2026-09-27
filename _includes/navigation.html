@@ -1,7 +1,8 @@
-<div class="links scroll">
-        <a href="{{site.baseurl}}/">Home</a>
-        <a href="{{site.baseurl}}/Neurodivergence-Psychotherapy">Neurodivergence</a>
-        <a href="{{site.baseurl}}/Schema-Therapy">Schema Therapy</a>
-        <a href="{{site.baseurl}}/Research">Research</a>
-        <a href="{{site.baseurl}}/Russian">Ru</a>
+<div class="links">
+        <a href="{{site.baseurl}}/"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{site.baseurl}}/Neurodivergence-Psychotherapy"{% if page.url == "/Neurodivergence-Psychotherapy" %} aria-current="page"{% endif %}>Neurodivergence</a>
+        <a href="{{site.baseurl}}/Schema-Therapy"{% if page.url == "/Schema-Therapy" %} aria-current="page"{% endif %}>Schema Therapy</a>
+        <a href="{{site.baseurl}}/Research"{% if page.url == "/Research" %} aria-current="page"{% endif %}>Research</a>
+        <a href="{{site.baseurl}}/Training"{% if page.url == "/Training" %} aria-current="page"{% endif %}>Training</a>
+        <a href="{{site.baseurl}}/Russian"{% if page.url == "/Russian" %} aria-current="page"{% endif %}>Ru</a>
 </div>

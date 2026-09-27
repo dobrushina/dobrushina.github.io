@@ -4,10 +4,15 @@ permalink: /Neurodivergence-Psychotherapy
 profile:
   align: right
   image: neurodivergence-affirmative.jpg
+title: Neurodiversity-affirming psychotherapy
+description: Neuroscience-informed, neurodiversity-affirming psychotherapy for autistic, ADHD and otherwise neurodivergent people and their families.
 published: true
 ---
 
->As a psychologist, neuroscientist, and neurodivergent individual, I adopt a neurodiversity-affirmative, person-centred approach. For me, that means respecting clients’ perceptions and focusing on their needs, regardless of how typical or atypical these perceptions and needs may seem. This can be achieved by employing neuroscience and healthcare knowledge while adopting an open-minded collaborative stance, co-creating the understanding with the client and finding the way forward together.
+As a psychologist, neuroscientist, and neurodivergent individual, I adopt a neurodiversity-affirmative, person-centred approach. For me, that means respecting clients’ perceptions and focusing on their needs, regardless of how typical or atypical these perceptions and needs may seem.
+{: .lead}
+
+This can be achieved by employing neuroscience and healthcare knowledge while adopting an open-minded collaborative stance, co-creating the understanding with the client and finding the way forward together.
 
 ### What is Neurodiversity and Neurodivergence?
 

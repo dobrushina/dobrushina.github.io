@@ -6,7 +6,7 @@
 @charset "utf-8";
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    700px;
 $on-phone:         550px;
 $on-palm:          660px;
 $on-laptop:        1000px;
@@ -29,5 +29,6 @@ $on-laptop:        1000px;
 @import 'profile';
 @import 'footer';
 @import 'style';
+@import 'training';
 @import 'google-fonts';
 @import 'syntax-highlighting';

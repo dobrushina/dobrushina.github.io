@@ -1,0 +1,53 @@
+# Lists shown on the Training page (/Training).
+# Edit this file to update the page; no HTML needed.
+# Sections whose list is empty ([]) are hidden on the page.
+
+# Upcoming workshops in Polish. Example entry:
+# upcoming_polish:
+#   - title: "Terapia schematu z osobami neuroatypowymi"
+#     date: "12–13 March 2027"
+#     organiser: "Instytut Terapii Schematu"
+#     location: "Warsaw"
+#     url: "https://example.com/booking"
+upcoming_polish: []
+
+# Participant feedback. Example entry:
+# quotes:
+#   - text: "The most practical training on neurodivergence I have attended."
+#     attribution: "Clinical psychologist, NHS Scotland"
+quotes: []
+
+on_demand:
+  - title: "Working Therapeutically with Neurodivergent Clients: From Neuroscience to Therapy"
+    description: "Recorded three-day workshop, Schema Therapy Scotland"
+    url: "https://www.schematherapyscotland.com/courses/working-therapeutically-with-neurodivergent-clients-from-neuroscience-to-therapy-i-online-workshop-i-january-2025-i-schema-therapy-scotland/"
+  - title: "Meeting the Needs of Neurodivergent Clients in Psychotherapy"
+    description: "Recorded introductory webinar, Schema Therapy Scotland"
+    url: "https://www.schematherapyscotland.com/courses/meeting-the-needs-of-neurodivergent-clients-in-psychotherapy-online-introductory-webinar-i-online-workshop-i-september-2024-i-schema-therapy-scotland/"
+
+# Newest year first.
+previous:
+  - year: 2026
+    items:
+      - title: "Schema Therapy for Neurodivergent Individuals: Affirming Difference and Supporting Positive Change"
+        details: "Three-day workshop, Instytut Terapii Schematu, Warsaw · also delivered in Perth, Australia"
+      - title: "Neurodiversity and Mental Health: From Science to Psychotherapy"
+        details: "Perth, Australia"
+      - title: "Psychological Therapies for Neurodivergent Individuals: Bridging the Relationship"
+        details: "One-day workshop, NHS Pennine, Greater Manchester"
+      - title: "Neurodiversity and Psychotherapy: An Embodied Perspective"
+        details: "One-day workshop, Adult Eating Disorder Unit, NHS Greater Glasgow and Clyde"
+      - title: "Reparenting a Neurodivergent Client in Schema Therapy: From Needs to Relationship"
+        details: "Webinar, Uczę się ACT, Poland"
+  - year: 2025
+    items:
+      - title: "Harnessing Imagery Rescripting for Neurodivergent Clients"
+        details: "International webinar, International Society of Schema Therapy (ISST)"
+      - title: "Working Therapeutically with Neurodivergent Clients: From Neuroscience to Therapy"
+        details: "Three-day workshop, Schema Therapy Scotland"
+  - year: 2024
+    items:
+      - title: "Schema Therapy for Neurodivergent Clients: From Neuroscience to Techniques"
+        details: "Three-day workshop, E-Schema, Poland"
+      - title: "Meeting the Needs of Neurodivergent Clients in Psychotherapy"
+        details: "Webinar, Schema Therapy Scotland"
